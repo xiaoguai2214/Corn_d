@@ -1,0 +1,13 @@
+train: E:/model/yolov11/datasets/Corn_d/images/train  # train images (relative to 'path') 128 images
+val: E:/model/yolov11/datasets/Corn_d/images/val   # val images (relative to 'path') 128 images
+test: E:/model/yolov11/datasets/Corn_d/images/test
+
+
+nc: 7
+names: ['Healthy', 'Common_Rust', 'Blight', 'Gray_Leaf_Spot', 'Corn_borer', 'Army_worm', 'Aphids']
+
+
+
+
+
+
