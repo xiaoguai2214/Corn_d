@@ -1,0 +1,7 @@
+Healthy
+Common_Rust
+Blight
+Gray_Leaf_Spot
+Corn_borer
+Army_worm
+Aphids
