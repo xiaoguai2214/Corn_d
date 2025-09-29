@@ -1,0 +1,1111 @@
+# split1	rel_image_1	split2	rel_image_2	Hamming
+train	images/train/Aphids_527.jpg	test	images/test/Aphids_849.jpg	0
+train	images/train/Aphids_688.jpg	test	images/test/Aphids_849.jpg	0
+train	images/train/Aphids_7.jpg	test	images/test/Aphids_867.jpg	0
+train	images/train/Aphids_747.jpg	test	images/test/Aphids_839.jpg	0
+train	images/train/Aphids_752.jpg	test	images/test/Aphids_849.jpg	0
+train	images/train/Aphids_754.jpg	test	images/test/Aphids_839.jpg	0
+train	images/train/Aphids_763.jpg	test	images/test/Aphids_744.jpg	0
+train	images/train/Aphids_798.jpg	test	images/test/Aphids_806.jpg	0
+train	images/train/Aphids_805.jpg	test	images/test/Aphids_867.jpg	0
+train	images/train/Aphids_832.jpg	test	images/test/Aphids_678.jpg	0
+train	images/train/Aphids_835.jpg	test	images/test/Aphids_867.jpg	0
+train	images/train/Aphids_857.jpg	test	images/test/Aphids_673.jpg	0
+train	images/train/Aphids_859.jpg	test	images/test/Aphids_690.jpg	0
+train	images/train/Aphids_869.jpg	test	images/test/Aphids_861.jpg	0
+train	images/train/Army_worm_531.jpg	test	images/test/Army_worm_439.jpg	0
+train	images/train/Corn_Blight_79.jpg	test	images/test/Gray_Leaf_Spot_100.jpg	0
+train	images/train/Corn_borer_2.jpg	test	images/test/Corn_borer_748.jpg	0
+train	images/train/Corn_borer_326.jpg	test	images/test/Corn_borer_752.jpg	0
+train	images/train/Corn_borer_428.jpg	test	images/test/Corn_borer_806.jpg	0
+train	images/train/Corn_borer_478.jpg	test	images/test/Corn_borer_0.jpg	0
+train	images/train/Corn_borer_478.jpg	test	images/test/Corn_borer_746.jpg	0
+train	images/train/Corn_borer_516.jpg	test	images/test/Corn_borer_92.jpg	0
+train	images/train/Corn_borer_844.jpg	test	images/test/Corn_borer_460.jpg	0
+train	images/train/Corn_borer_877.jpg	test	images/test/Corn_borer_960.jpg	0
+train	images/train/Corn_borer_899.jpg	test	images/test/Corn_borer_104.jpg	0
+train	images/train/aug1_c4_00073.jpg	test	images/test/Corn_borer_92.jpg	0
+train	images/train/aug1_c4_00086.jpg	test	images/test/Corn_borer_960.jpg	0
+train	images/train/aug1_c4_00088.jpg	test	images/test/Corn_borer_854.jpg	0
+train	images/train/aug1_c4_00089.jpg	test	images/test/Corn_borer_332.jpg	0
+train	images/train/aug1_c4_00111.jpg	test	images/test/Corn_borer_524.jpg	0
+train	images/train/aug1_c4_00182.jpg	test	images/test/Corn_borer_1045.jpg	0
+train	images/train/aug1_c4_00286.jpg	test	images/test/Corn_borer_1025.jpg	0
+train	images/train/aug1_c4_00294.jpg	test	images/test/Corn_borer_960.jpg	0
+train	images/train/aug1_c4_00301.jpg	test	images/test/Corn_borer_104.jpg	0
+train	images/train/aug1_c4_00350.jpg	test	images/test/Corn_borer_949.jpg	0
+train	images/train/aug1_c5_00019.jpg	test	images/test/Army_worm_439.jpg	0
+train	images/train/aug1_c5_00041.jpg	test	images/test/Army_worm_274.jpg	0
+train	images/train/aug1_c5_00067.jpg	test	images/test/Army_worm_268.jpg	0
+train	images/train/aug1_c5_00085.jpg	test	images/test/Army_worm_340.jpg	0
+train	images/train/aug1_c5_00144.jpg	test	images/test/Army_worm_450.jpg	0
+train	images/train/aug1_c5_00162.jpg	test	images/test/Army_worm_509.jpg	0
+train	images/train/aug1_c5_00196.jpg	test	images/test/Army_worm_128.jpg	0
+train	images/train/aug1_c5_00286.jpg	test	images/test/Army_worm_564.jpg	0
+train	images/train/aug1_c5_00304.jpg	test	images/test/Army_worm_576.jpg	0
+train	images/train/aug1_c5_00315.jpg	test	images/test/Army_worm_547.jpg	0
+train	images/train/aug1_c5_00353.jpg	test	images/test/Army_worm_180.jpg	0
+train	images/train/aug1_c5_00390.jpg	test	images/test/Army_worm_180.jpg	0
+train	images/train/aug1_c5_00441.jpg	test	images/test/Army_worm_439.jpg	0
+train	images/train/aug1_c5_00477.jpg	test	images/test/Army_worm_525.jpg	0
+train	images/train/aug1_c5_00486.jpg	test	images/test/Army_worm_509.jpg	0
+train	images/train/aug1_c5_00509.jpg	test	images/test/Army_worm_499.jpg	0
+train	images/train/Aphids_236.jpg	test	images/test/Corn_Health (848).jpg	1
+train	images/train/Aphids_325.jpg	test	images/test/Corn_Health (947).jpg	1
+train	images/train/Aphids_589.jpg	test	images/test/Aphids_622.jpg	1
+train	images/train/Aphids_7.jpg	test	images/test/Aphids_841.jpg	1
+train	images/train/Aphids_733.jpg	test	images/test/Aphids_863.jpg	1
+train	images/train/Aphids_734.jpg	test	images/test/Aphids_863.jpg	1
+train	images/train/Aphids_747.jpg	test	images/test/Aphids_863.jpg	1
+train	images/train/Aphids_753.jpg	test	images/test/Aphids_863.jpg	1
+train	images/train/Aphids_754.jpg	test	images/test/Aphids_863.jpg	1
+train	images/train/Aphids_805.jpg	test	images/test/Aphids_841.jpg	1
+train	images/train/Aphids_833.jpg	test	images/test/Aphids_863.jpg	1
+train	images/train/Aphids_835.jpg	test	images/test/Aphids_841.jpg	1
+train	images/train/Aphids_840.jpg	test	images/test/Aphids_839.jpg	1
+train	images/train/Aphids_844.jpg	test	images/test/Aphids_863.jpg	1
+train	images/train/Corn_Common_Rust (675).jpg	test	images/test/Army_worm_509.jpg	1
+train	images/train/Corn_Health (1035).jpg	test	images/test/Corn_Health (314).jpg	1
+train	images/train/Corn_Health (823).jpg	test	images/test/Corn_Health (947).jpg	1
+train	images/train/Corn_borer_294.jpg	test	images/test/Corn_borer_224.jpg	1
+train	images/train/Corn_borer_54.jpg	test	images/test/Corn_borer_524.jpg	1
+train	images/train/aug1_c4_00117.jpg	test	images/test/Corn_borer_0.jpg	1
+train	images/train/aug1_c4_00117.jpg	test	images/test/Corn_borer_746.jpg	1
+train	images/train/aug1_c4_00151.jpg	test	images/test/Corn_borer_216.jpg	1
+train	images/train/aug1_c4_00158.jpg	test	images/test/Corn_borer_1023.jpg	1
+train	images/train/aug1_c4_00250.jpg	test	images/test/Army_worm_464.jpg	1
+train	images/train/aug1_c5_00047.jpg	test	images/test/Army_worm_525.jpg	1
+train	images/train/aug1_c5_00095.jpg	test	images/test/Army_worm_439.jpg	1
+train	images/train/aug1_c5_00154.jpg	test	images/test/Army_worm_66.jpg	1
+train	images/train/aug1_c5_00322.jpg	test	images/test/Army_worm_426.jpg	1
+train	images/train/aug1_c5_00443.jpg	test	images/test/Army_worm_439.jpg	1
+train	images/train/Aphids_179.jpg	test	images/test/Corn_Health (64).jpg	2
+train	images/train/Aphids_349.jpg	test	images/test/Aphids_288.jpg	2
+train	images/train/Aphids_638.jpg	test	images/test/Aphids_622.jpg	2
+train	images/train/Aphids_733.jpg	test	images/test/Aphids_839.jpg	2
+train	images/train/Aphids_734.jpg	test	images/test/Aphids_839.jpg	2
+train	images/train/Aphids_753.jpg	test	images/test/Aphids_839.jpg	2
+train	images/train/Aphids_809.jpg	test	images/test/Aphids_839.jpg	2
+train	images/train/Aphids_833.jpg	test	images/test/Aphids_839.jpg	2
+train	images/train/Aphids_840.jpg	test	images/test/Aphids_863.jpg	2
+train	images/train/Aphids_844.jpg	test	images/test/Aphids_839.jpg	2
+train	images/train/Aphids_853.jpg	test	images/test/Aphids_861.jpg	2
+train	images/train/Corn_Common_Rust (1210).jpg	test	images/test/Corn_Common_Rust (980).jpg	2
+train	images/train/Corn_Common_Rust (877).jpg	test	images/test/Corn_Common_Rust (164).jpg	2
+train	images/train/Corn_Common_Rust (954).jpg	test	images/test/Corn_Common_Rust (887).jpg	2
+train	images/train/Corn_borer_422.jpg	test	images/test/Corn_borer_836.jpg	2
+train	images/train/Corn_borer_869.jpg	test	images/test/Corn_borer_44.jpg	2
+train	images/train/Corn_borer_961.jpg	test	images/test/Corn_borer_902.jpg	2
+train	images/train/aug1_c4_00081.jpg	test	images/test/Corn_borer_44.jpg	2
+train	images/train/aug1_c4_00130.jpg	test	images/test/Corn_borer_134.jpg	2
+train	images/train/aug1_c4_00174.jpg	test	images/test/Corn_borer_164.jpg	2
+train	images/train/aug1_c4_00194.jpg	test	images/test/Corn_borer_902.jpg	2
+train	images/train/aug1_c4_00255.jpg	test	images/test/Corn_borer_1025.jpg	2
+train	images/train/aug1_c4_00256.jpg	test	images/test/Corn_borer_262.jpg	2
+train	images/train/Aphids_356.jpg	test	images/test/Aphids_355.jpg	3
+train	images/train/Aphids_384.jpg	test	images/test/Aphids_697.jpg	3
+train	images/train/Aphids_638.jpg	test	images/test/Corn_Health (848).jpg	3
+train	images/train/Aphids_638.jpg	test	images/test/Corn_Health (947).jpg	3
+train	images/train/Aphids_682.jpg	test	images/test/Corn_Health (10).jpg	3
+train	images/train/Aphids_717.jpg	test	images/test/Aphids_863.jpg	3
+train	images/train/Aphids_809.jpg	test	images/test/Aphids_863.jpg	3
+train	images/train/Army_worm_132.jpg	test	images/test/Corn_Health (10).jpg	3
+train	images/train/Army_worm_428.jpg	test	images/test/Corn_Health (10).jpg	3
+train	images/train/Army_worm_528.jpg	test	images/test/Corn_Health (10).jpg	3
+train	images/train/Corn_Common_Rust (1118).jpg	test	images/test/Corn_Common_Rust (1119).jpg	3
+train	images/train/Corn_Common_Rust (158).jpg	test	images/test/Corn_Common_Rust (663).jpg	3
+train	images/train/Corn_Common_Rust (30).jpg	test	images/test/Corn_Blight_832.jpg	3
+train	images/train/Corn_Common_Rust (47).jpg	test	images/test/Corn_borer_524.jpg	3
+train	images/train/Corn_Common_Rust (477).jpg	test	images/test/Corn_Common_Rust (405).jpg	3
+train	images/train/Corn_Common_Rust (478).jpg	test	images/test/Corn_Common_Rust (1095).jpg	3
+train	images/train/Corn_Health (1084).jpg	test	images/test/Corn_Blight_832.jpg	3
+train	images/train/Corn_Health (174).jpg	test	images/test/Corn_Health (314).jpg	3
+train	images/train/Corn_Health (602).jpg	test	images/test/Corn_Blight_798.jpg	3
+train	images/train/Corn_Health (823).jpg	test	images/test/Corn_Health (848).jpg	3
+train	images/train/Corn_Health (913).jpg	test	images/test/Corn_Health (848).jpg	3
+train	images/train/Corn_Health (913).jpg	test	images/test/Corn_Health (947).jpg	3
+train	images/train/Corn_Health (982).jpg	test	images/test/Aphids_401.jpg	3
+train	images/train/Corn_borer_24.jpg	test	images/test/Corn_borer_748.jpg	3
+train	images/train/Corn_borer_266.jpg	test	images/test/Corn_borer_262.jpg	3
+train	images/train/Corn_borer_46.jpg	test	images/test/Corn_borer_748.jpg	3
+train	images/train/Corn_borer_874.jpg	test	images/test/Corn_borer_524.jpg	3
+train	images/train/Corn_borer_889.jpg	test	images/test/Corn_borer_902.jpg	3
+train	images/train/Gray_Leaf_Spot_396.jpg	test	images/test/Gray_Leaf_Spot_461.jpg	3
+train	images/train/aug1_c4_00101.jpg	test	images/test/Corn_borer_902.jpg	3
+train	images/train/aug1_c4_00239.jpg	test	images/test/Corn_borer_752.jpg	3
+train	images/train/aug1_c4_00240.jpg	test	images/test/Corn_borer_338.jpg	3
+train	images/train/aug1_c4_00260.jpg	test	images/test/Corn_borer_960.jpg	3
+train	images/train/aug1_c4_00348.jpg	test	images/test/Corn_Blight_26.jpg	3
+train	images/train/aug1_c5_00174.jpg	test	images/test/Corn_borer_262.jpg	3
+train	images/train/aug1_c5_00178.jpg	test	images/test/Corn_borer_262.jpg	3
+train	images/train/aug1_c5_00277.jpg	test	images/test/Corn_Blight_798.jpg	3
+train	images/train/aug1_c5_00379.jpg	test	images/test/Corn_Health (10).jpg	3
+train	images/train/aug1_c5_00425.jpg	test	images/test/Corn_Health (10).jpg	3
+train	images/train/Aphids_163.jpg	test	images/test/Corn_Health (947).jpg	4
+train	images/train/Aphids_174.jpg	test	images/test/Aphids_319.jpg	4
+train	images/train/Aphids_189.jpg	test	images/test/Aphids_351.jpg	4
+train	images/train/Aphids_227.jpg	test	images/test/Corn_Health (670).jpg	4
+train	images/train/Aphids_232.jpg	test	images/test/Corn_Health (10).jpg	4
+train	images/train/Aphids_232.jpg	test	images/test/Gray_Leaf_Spot_150.jpg	4
+train	images/train/Aphids_236.jpg	test	images/test/Aphids_622.jpg	4
+train	images/train/Aphids_326.jpg	test	images/test/Aphids_319.jpg	4
+train	images/train/Aphids_338.jpg	test	images/test/Aphids_319.jpg	4
+train	images/train/Aphids_391.jpg	test	images/test/Aphids_127.jpg	4
+train	images/train/Aphids_493.jpg	test	images/test/Gray_Leaf_Spot_150.jpg	4
+train	images/train/Aphids_499.jpg	test	images/test/Army_worm_610.jpg	4
+train	images/train/Aphids_559.jpg	test	images/test/Aphids_319.jpg	4
+train	images/train/Aphids_619.jpg	test	images/test/Aphids_519.jpg	4
+train	images/train/Aphids_701.jpg	test	images/test/Aphids_697.jpg	4
+train	images/train/Aphids_717.jpg	test	images/test/Aphids_839.jpg	4
+train	images/train/Aphids_916.jpg	test	images/test/Aphids_637.jpg	4
+train	images/train/Aphids_935.jpg	test	images/test/Corn_Health (253).jpg	4
+train	images/train/Aphids_935.jpg	test	images/test/Corn_Health (437).jpg	4
+train	images/train/Army_worm_236.jpg	test	images/test/Aphids_401.jpg	4
+train	images/train/Army_worm_236.jpg	test	images/test/Corn_Blight_798.jpg	4
+train	images/train/Army_worm_434.jpg	test	images/test/Aphids_703.jpg	4
+train	images/train/Corn_Blight_1103.jpg	test	images/test/Corn_Health (947).jpg	4
+train	images/train/Corn_Blight_316.jpg	test	images/test/Corn_Blight_534.jpg	4
+train	images/train/Corn_Blight_829.jpg	test	images/test/Corn_Blight_832.jpg	4
+train	images/train/Corn_Blight_882.jpg	test	images/test/Army_worm_610.jpg	4
+train	images/train/Corn_Blight_933.jpg	test	images/test/Army_worm_610.jpg	4
+train	images/train/Corn_Common_Rust (1201).jpg	test	images/test/Corn_Health (947).jpg	4
+train	images/train/Corn_Common_Rust (1285).jpg	test	images/test/Corn_Health (10).jpg	4
+train	images/train/Corn_Common_Rust (230).jpg	test	images/test/Corn_Common_Rust (887).jpg	4
+train	images/train/Corn_Common_Rust (272).jpg	test	images/test/Corn_Common_Rust (980).jpg	4
+train	images/train/Corn_Common_Rust (326).jpg	test	images/test/Corn_Common_Rust (405).jpg	4
+train	images/train/Corn_Common_Rust (47).jpg	test	images/test/Aphids_674.jpg	4
+train	images/train/Corn_Common_Rust (480).jpg	test	images/test/Corn_Common_Rust (343).jpg	4
+train	images/train/Corn_Common_Rust (51).jpg	test	images/test/Corn_Health (253).jpg	4
+train	images/train/Corn_Common_Rust (684).jpg	test	images/test/Corn_Common_Rust (887).jpg	4
+train	images/train/Corn_Common_Rust (728).jpg	test	images/test/Corn_Common_Rust (638).jpg	4
+train	images/train/Corn_Common_Rust (754).jpg	test	images/test/Corn_Common_Rust (738).jpg	4
+train	images/train/Corn_Common_Rust (778).jpg	test	images/test/Corn_Common_Rust (365).jpg	4
+train	images/train/Corn_Common_Rust (785).jpg	test	images/test/Corn_Common_Rust (887).jpg	4
+train	images/train/Corn_Common_Rust (786).jpg	test	images/test/Corn_Common_Rust (663).jpg	4
+train	images/train/Corn_Common_Rust (886).jpg	test	images/test/Corn_Common_Rust (638).jpg	4
+train	images/train/Corn_Common_Rust (911).jpg	test	images/test/Corn_Common_Rust (1025).jpg	4
+train	images/train/Corn_Common_Rust (911).jpg	test	images/test/Corn_Common_Rust (402).jpg	4
+train	images/train/Corn_Common_Rust (920).jpg	test	images/test/Corn_Common_Rust (405).jpg	4
+train	images/train/Corn_Common_Rust (960).jpg	test	images/test/Corn_Common_Rust (887).jpg	4
+train	images/train/Corn_Common_Rust (973).jpg	test	images/test/Corn_Common_Rust (934).jpg	4
+train	images/train/Corn_Health (187).jpg	test	images/test/Corn_Health (64).jpg	4
+train	images/train/Corn_Health (264).jpg	test	images/test/Corn_Blight_216.jpg	4
+train	images/train/Corn_Health (388).jpg	test	images/test/Corn_Health (314).jpg	4
+train	images/train/Corn_Health (392).jpg	test	images/test/Corn_Health (193).jpg	4
+train	images/train/Corn_Health (462).jpg	test	images/test/Corn_Health (10).jpg	4
+train	images/train/Corn_Health (462).jpg	test	images/test/Gray_Leaf_Spot_150.jpg	4
+train	images/train/Corn_Health (602).jpg	test	images/test/Aphids_997.jpg	4
+train	images/train/Corn_Health (823).jpg	test	images/test/Aphids_622.jpg	4
+train	images/train/Corn_Health (978).jpg	test	images/test/Corn_Health (437).jpg	4
+train	images/train/Corn_borer_192.jpg	test	images/test/Corn_borer_943.jpg	4
+train	images/train/Corn_borer_256.jpg	test	images/test/Aphids_485.jpg	4
+train	images/train/Corn_borer_754.jpg	test	images/test/Corn_borer_622.jpg	4
+train	images/train/aug1_c4_00010.jpg	test	images/test/Aphids_485.jpg	4
+train	images/train/aug1_c4_00021.jpg	test	images/test/Corn_borer_524.jpg	4
+train	images/train/aug1_c4_00023.jpg	test	images/test/Corn_borer_943.jpg	4
+train	images/train/aug1_c4_00033.jpg	test	images/test/Corn_borer_224.jpg	4
+train	images/train/aug1_c4_00037.jpg	test	images/test/Corn_borer_1029.jpg	4
+train	images/train/aug1_c4_00107.jpg	test	images/test/Corn_borer_524.jpg	4
+train	images/train/aug1_c4_00307.jpg	test	images/test/Aphids_485.jpg	4
+train	images/train/aug1_c5_00054.jpg	test	images/test/Aphids_401.jpg	4
+train	images/train/aug1_c5_00054.jpg	test	images/test/Corn_Blight_798.jpg	4
+train	images/train/aug1_c5_00054.jpg	test	images/test/Corn_Health (10).jpg	4
+train	images/train/aug1_c5_00157.jpg	test	images/test/Corn_borer_44.jpg	4
+train	images/train/aug1_c5_00276.jpg	test	images/test/Aphids_401.jpg	4
+train	images/train/aug1_c5_00334.jpg	test	images/test/Corn_Health (10).jpg	4
+train	images/train/aug1_c5_00387.jpg	test	images/test/Aphids_401.jpg	4
+train	images/train/aug1_c5_00387.jpg	test	images/test/Corn_Blight_798.jpg	4
+train	images/train/aug1_c5_00494.jpg	test	images/test/Corn_borer_44.jpg	4
+train	images/train/Aphids_179.jpg	test	images/test/Gray_Leaf_Spot_150.jpg	5
+train	images/train/Aphids_187.jpg	test	images/test/Aphids_221.jpg	5
+train	images/train/Aphids_189.jpg	test	images/test/Aphids_319.jpg	5
+train	images/train/Aphids_200.jpg	test	images/test/Gray_Leaf_Spot_368.jpg	5
+train	images/train/Aphids_222.jpg	test	images/test/Corn_Health (670).jpg	5
+train	images/train/Aphids_230.jpg	test	images/test/Aphids_351.jpg	5
+train	images/train/Aphids_232.jpg	test	images/test/Corn_Health (64).jpg	5
+train	images/train/Aphids_236.jpg	test	images/test/Corn_Health (947).jpg	5
+train	images/train/Aphids_267.jpg	test	images/test/Aphids_286.jpg	5
+train	images/train/Aphids_292.jpg	test	images/test/Corn_Health (314).jpg	5
+train	images/train/Aphids_306.jpg	test	images/test/Aphids_319.jpg	5
+train	images/train/Aphids_324.jpg	test	images/test/Aphids_249.jpg	5
+train	images/train/Aphids_325.jpg	test	images/test/Corn_Health (848).jpg	5
+train	images/train/Aphids_327.jpg	test	images/test/Aphids_288.jpg	5
+train	images/train/Aphids_337.jpg	test	images/test/Aphids_351.jpg	5
+train	images/train/Aphids_345.jpg	test	images/test/Aphids_137.jpg	5
+train	images/train/Aphids_345.jpg	test	images/test/Aphids_288.jpg	5
+train	images/train/Aphids_358.jpg	test	images/test/Aphids_137.jpg	5
+train	images/train/Aphids_371.jpg	test	images/test/Corn_Health (253).jpg	5
+train	images/train/Aphids_383.jpg	test	images/test/Gray_Leaf_Spot_150.jpg	5
+train	images/train/Aphids_395.jpg	test	images/test/Corn_Health (64).jpg	5
+train	images/train/Aphids_429.jpg	test	images/test/Aphids_401.jpg	5
+train	images/train/Aphids_429.jpg	test	images/test/Corn_Health (291).jpg	5
+train	images/train/Aphids_429.jpg	test	images/test/Corn_Health (314).jpg	5
+train	images/train/Aphids_448.jpg	test	images/test/Aphids_288.jpg	5
+train	images/train/Aphids_467.jpg	test	images/test/Aphids_319.jpg	5
+train	images/train/Aphids_493.jpg	test	images/test/Corn_Health (64).jpg	5
+train	images/train/Aphids_554.jpg	test	images/test/Aphids_319.jpg	5
+train	images/train/Aphids_578.jpg	test	images/test/Corn_Health (947).jpg	5
+train	images/train/Aphids_607.jpg	test	images/test/Corn_Health (848).jpg	5
+train	images/train/Aphids_607.jpg	test	images/test/Corn_Health (947).jpg	5
+train	images/train/Aphids_607.jpg	test	images/test/Gray_Leaf_Spot_521.jpg	5
+train	images/train/Aphids_62.jpg	test	images/test/Aphids_288.jpg	5
+train	images/train/Aphids_686.jpg	test	images/test/Aphids_553.jpg	5
+train	images/train/Aphids_705.jpg	test	images/test/Aphids_863.jpg	5
+train	images/train/Aphids_762.jpg	test	images/test/Corn_Health (947).jpg	5
+train	images/train/Aphids_777.jpg	test	images/test/Aphids_861.jpg	5
+train	images/train/Aphids_778.jpg	test	images/test/Aphids_789.jpg	5
+train	images/train/Aphids_85.jpg	test	images/test/Aphids_744.jpg	5
+train	images/train/Aphids_860.jpg	test	images/test/Aphids_622.jpg	5
+train	images/train/Aphids_89.jpg	test	images/test/Aphids_401.jpg	5
+train	images/train/Aphids_89.jpg	test	images/test/Corn_Health (10).jpg	5
+train	images/train/Aphids_913.jpg	test	images/test/Gray_Leaf_Spot_150.jpg	5
+train	images/train/Army_worm_234.jpg	test	images/test/Aphids_401.jpg	5
+train	images/train/Army_worm_234.jpg	test	images/test/Corn_Blight_798.jpg	5
+train	images/train/Army_worm_234.jpg	test	images/test/Corn_Health (10).jpg	5
+train	images/train/Army_worm_34.jpg	test	images/test/Aphids_401.jpg	5
+train	images/train/Army_worm_34.jpg	test	images/test/Corn_Blight_798.jpg	5
+train	images/train/Army_worm_34.jpg	test	images/test/Corn_Health (10).jpg	5
+train	images/train/Army_worm_370.jpg	test	images/test/Corn_borer_44.jpg	5
+train	images/train/Army_worm_428.jpg	test	images/test/Aphids_401.jpg	5
+train	images/train/Army_worm_428.jpg	test	images/test/Corn_Blight_798.jpg	5
+train	images/train/Army_worm_528.jpg	test	images/test/Aphids_401.jpg	5
+train	images/train/Army_worm_528.jpg	test	images/test/Corn_Blight_798.jpg	5
+train	images/train/Army_worm_596.jpg	test	images/test/Corn_borer_44.jpg	5
+train	images/train/Corn_Blight_1196.jpg	test	images/test/Aphids_674.jpg	5
+train	images/train/Corn_Blight_1200.jpg	test	images/test/Corn_Health (193).jpg	5
+train	images/train/Corn_Blight_203.jpg	test	images/test/Corn_Blight_798.jpg	5
+train	images/train/Corn_Blight_203.jpg	test	images/test/Corn_Health (10).jpg	5
+train	images/train/Corn_Blight_203.jpg	test	images/test/Gray_Leaf_Spot_150.jpg	5
+train	images/train/Corn_Blight_586.jpg	test	images/test/Corn_borer_360.jpg	5
+train	images/train/Corn_Common_Rust (1010).jpg	test	images/test/Corn_Common_Rust (99).jpg	5
+train	images/train/Corn_Common_Rust (1031).jpg	test	images/test/Corn_Common_Rust (1177).jpg	5
+train	images/train/Corn_Common_Rust (1208).jpg	test	images/test/Corn_Common_Rust (1073).jpg	5
+train	images/train/Corn_Common_Rust (1226).jpg	test	images/test/Corn_Common_Rust (1099).jpg	5
+train	images/train/Corn_Common_Rust (230).jpg	test	images/test/Army_worm_509.jpg	5
+train	images/train/Corn_Common_Rust (235).jpg	test	images/test/Corn_Common_Rust (88).jpg	5
+train	images/train/Corn_Common_Rust (280).jpg	test	images/test/Corn_Common_Rust (634).jpg	5
+train	images/train/Corn_Common_Rust (344).jpg	test	images/test/Corn_Common_Rust (1278).jpg	5
+train	images/train/Corn_Common_Rust (347).jpg	test	images/test/Corn_Common_Rust (641).jpg	5
+train	images/train/Corn_Common_Rust (419).jpg	test	images/test/Corn_Common_Rust (232).jpg	5
+train	images/train/Corn_Common_Rust (419).jpg	test	images/test/Corn_Common_Rust (717).jpg	5
+train	images/train/Corn_Common_Rust (471).jpg	test	images/test/Corn_Common_Rust (405).jpg	5
+train	images/train/Corn_Common_Rust (489).jpg	test	images/test/Corn_Common_Rust (629).jpg	5
+train	images/train/Corn_Common_Rust (577).jpg	test	images/test/Corn_Common_Rust (638).jpg	5
+train	images/train/Corn_Common_Rust (685).jpg	test	images/test/Corn_Common_Rust (738).jpg	5
+train	images/train/Corn_Common_Rust (728).jpg	test	images/test/Corn_Common_Rust (875).jpg	5
+train	images/train/Corn_Common_Rust (785).jpg	test	images/test/Corn_Common_Rust (483).jpg	5
+train	images/train/Corn_Common_Rust (790).jpg	test	images/test/Corn_Common_Rust (887).jpg	5
+train	images/train/Corn_Common_Rust (906).jpg	test	images/test/Corn_Common_Rust (343).jpg	5
+train	images/train/Corn_Common_Rust (948).jpg	test	images/test/Corn_Common_Rust (1263).jpg	5
+train	images/train/Corn_Common_Rust (958).jpg	test	images/test/Corn_Common_Rust (433).jpg	5
+train	images/train/Corn_Common_Rust (965).jpg	test	images/test/Corn_Common_Rust (1095).jpg	5
+train	images/train/Corn_Health (1054).jpg	test	images/test/Corn_Health (848).jpg	5
+train	images/train/Corn_Health (1128).jpg	test	images/test/Aphids_401.jpg	5
+train	images/train/Corn_Health (187).jpg	test	images/test/Aphids_401.jpg	5
+train	images/train/Corn_Health (187).jpg	test	images/test/Corn_Health (291).jpg	5
+train	images/train/Corn_Health (187).jpg	test	images/test/Gray_Leaf_Spot_150.jpg	5
+train	images/train/Corn_Health (358).jpg	test	images/test/Corn_Health (848).jpg	5
+train	images/train/Corn_Health (358).jpg	test	images/test/Corn_Health (947).jpg	5
+train	images/train/Corn_Health (361).jpg	test	images/test/Corn_Health (848).jpg	5
+train	images/train/Corn_Health (361).jpg	test	images/test/Corn_Health (947).jpg	5
+train	images/train/Corn_Health (462).jpg	test	images/test/Corn_Health (64).jpg	5
+train	images/train/Corn_Health (53).jpg	test	images/test/Corn_Blight_1069.jpg	5
+train	images/train/Corn_Health (537).jpg	test	images/test/Aphids_622.jpg	5
+train	images/train/Corn_Health (543).jpg	test	images/test/Corn_Health (64).jpg	5
+train	images/train/Corn_Health (602).jpg	test	images/test/Aphids_401.jpg	5
+train	images/train/Corn_Health (715).jpg	test	images/test/Aphids_401.jpg	5
+train	images/train/Corn_Health (852).jpg	test	images/test/Gray_Leaf_Spot_337.jpg	5
+train	images/train/Corn_Health (879).jpg	test	images/test/Corn_Health (848).jpg	5
+train	images/train/Corn_Health (982).jpg	test	images/test/Corn_Health (291).jpg	5
+train	images/train/Corn_borer_40.jpg	test	images/test/Corn_Blight_26.jpg	5
+train	images/train/Corn_borer_508.jpg	test	images/test/Aphids_674.jpg	5
+train	images/train/Corn_borer_552.jpg	test	images/test/Corn_borer_92.jpg	5
+train	images/train/Corn_borer_780.jpg	test	images/test/Corn_Blight_26.jpg	5
+train	images/train/Corn_borer_869.jpg	test	images/test/Corn_borer_462.jpg	5
+train	images/train/Corn_borer_978.jpg	test	images/test/Aphids_703.jpg	5
+train	images/train/Corn_borer_978.jpg	test	images/test/Corn_Health (670).jpg	5
+train	images/train/Corn_borer_980.jpg	test	images/test/Corn_Health (947).jpg	5
+train	images/train/Gray_Leaf_Spot_108.jpg	test	images/test/Corn_Health (193).jpg	5
+train	images/train/Gray_Leaf_Spot_528.jpg	test	images/test/Corn_Health (848).jpg	5
+train	images/train/Gray_Leaf_Spot_528.jpg	test	images/test/Corn_Health (947).jpg	5
+train	images/train/aug1_c3_00101.jpg	test	images/test/Corn_Health (193).jpg	5
+train	images/train/aug1_c3_00108.jpg	test	images/test/Corn_Health (193).jpg	5
+train	images/train/aug1_c3_00160.jpg	test	images/test/Corn_Blight_216.jpg	5
+train	images/train/aug1_c3_00221.jpg	test	images/test/Corn_Health (193).jpg	5
+train	images/train/aug1_c3_00295.jpg	test	images/test/Corn_Health (314).jpg	5
+train	images/train/aug1_c4_00030.jpg	test	images/test/Corn_borer_92.jpg	5
+train	images/train/aug1_c4_00047.jpg	test	images/test/Corn_Health (947).jpg	5
+train	images/train/aug1_c4_00081.jpg	test	images/test/Corn_borer_462.jpg	5
+train	images/train/aug1_c4_00226.jpg	test	images/test/Corn_Blight_26.jpg	5
+train	images/train/aug1_c4_00305.jpg	test	images/test/Aphids_703.jpg	5
+train	images/train/aug1_c4_00305.jpg	test	images/test/Corn_Health (670).jpg	5
+train	images/train/aug1_c4_00352.jpg	test	images/test/Corn_borer_92.jpg	5
+train	images/train/aug1_c5_00051.jpg	test	images/test/Corn_Blight_798.jpg	5
+train	images/train/aug1_c5_00051.jpg	test	images/test/Corn_Health (10).jpg	5
+train	images/train/aug1_c5_00232.jpg	test	images/test/Aphids_401.jpg	5
+train	images/train/aug1_c5_00232.jpg	test	images/test/Corn_Blight_798.jpg	5
+train	images/train/aug1_c5_00232.jpg	test	images/test/Corn_Health (10).jpg	5
+train	images/train/aug1_c5_00277.jpg	test	images/test/Aphids_401.jpg	5
+train	images/train/aug1_c5_00277.jpg	test	images/test/Corn_Health (10).jpg	5
+train	images/train/aug1_c5_00290.jpg	test	images/test/Aphids_401.jpg	5
+train	images/train/aug1_c5_00290.jpg	test	images/test/Corn_Blight_798.jpg	5
+train	images/train/aug1_c5_00290.jpg	test	images/test/Corn_Health (10).jpg	5
+train	images/train/aug1_c5_00296.jpg	test	images/test/Aphids_401.jpg	5
+train	images/train/aug1_c5_00296.jpg	test	images/test/Corn_Blight_798.jpg	5
+train	images/train/aug1_c5_00296.jpg	test	images/test/Corn_Health (10).jpg	5
+train	images/train/aug1_c5_00379.jpg	test	images/test/Aphids_401.jpg	5
+train	images/train/aug1_c5_00379.jpg	test	images/test/Corn_Blight_798.jpg	5
+train	images/train/aug1_c5_00425.jpg	test	images/test/Aphids_401.jpg	5
+train	images/train/aug1_c5_00425.jpg	test	images/test/Corn_Blight_798.jpg	5
+train	images/train/aug1_c5_00446.jpg	test	images/test/Aphids_401.jpg	5
+train	images/train/aug1_c5_00446.jpg	test	images/test/Corn_Blight_798.jpg	5
+train	images/train/aug1_c5_00446.jpg	test	images/test/Corn_Health (10).jpg	5
+train	images/train/aug1_c5_00493.jpg	test	images/test/Corn_borer_44.jpg	5
+train	images/train/aug1_c5_00494.jpg	test	images/test/Corn_borer_462.jpg	5
+train	images/train/aug1_c5_00502.jpg	test	images/test/Aphids_401.jpg	5
+train	images/train/aug1_c5_00502.jpg	test	images/test/Corn_Blight_798.jpg	5
+train	images/train/aug1_c5_00502.jpg	test	images/test/Corn_Health (10).jpg	5
+train	images/train/mosaic_00066.jpg	test	images/test/Aphids_622.jpg	5
+train	images/train/mosaic_00311.jpg	test	images/test/Aphids_127.jpg	5
+train	images/train/mosaic_00311.jpg	test	images/test/Gray_Leaf_Spot_150.jpg	5
+train	images/train/Aphids_222.jpg	val	images/val/Aphids_713.jpg	0
+train	images/train/Aphids_527.jpg	val	images/val/Aphids_874.jpg	0
+train	images/train/Aphids_661.jpg	val	images/val/Aphids_770.jpg	0
+train	images/train/Aphids_688.jpg	val	images/val/Aphids_874.jpg	0
+train	images/train/Aphids_7.jpg	val	images/val/Aphids_870.jpg	0
+train	images/train/Aphids_7.jpg	val	images/val/Aphids_878.jpg	0
+train	images/train/Aphids_711.jpg	val	images/val/Aphids_543.jpg	0
+train	images/train/Aphids_733.jpg	val	images/val/Aphids_735.jpg	0
+train	images/train/Aphids_733.jpg	val	images/val/Aphids_866.jpg	0
+train	images/train/Aphids_734.jpg	val	images/val/Aphids_735.jpg	0
+train	images/train/Aphids_734.jpg	val	images/val/Aphids_866.jpg	0
+train	images/train/Aphids_747.jpg	val	images/val/Aphids_666.jpg	0
+train	images/train/Aphids_752.jpg	val	images/val/Aphids_874.jpg	0
+train	images/train/Aphids_753.jpg	val	images/val/Aphids_735.jpg	0
+train	images/train/Aphids_753.jpg	val	images/val/Aphids_866.jpg	0
+train	images/train/Aphids_754.jpg	val	images/val/Aphids_666.jpg	0
+train	images/train/Aphids_763.jpg	val	images/val/Aphids_788.jpg	0
+train	images/train/Aphids_763.jpg	val	images/val/Aphids_801.jpg	0
+train	images/train/Aphids_773.jpg	val	images/val/Aphids_771.jpg	0
+train	images/train/Aphids_776.jpg	val	images/val/Aphids_837.jpg	0
+train	images/train/Aphids_805.jpg	val	images/val/Aphids_870.jpg	0
+train	images/train/Aphids_805.jpg	val	images/val/Aphids_878.jpg	0
+train	images/train/Aphids_821.jpg	val	images/val/Aphids_837.jpg	0
+train	images/train/Aphids_826.jpg	val	images/val/Aphids_770.jpg	0
+train	images/train/Aphids_828.jpg	val	images/val/Aphids_770.jpg	0
+train	images/train/Aphids_831.jpg	val	images/val/Aphids_858.jpg	0
+train	images/train/Aphids_833.jpg	val	images/val/Aphids_735.jpg	0
+train	images/train/Aphids_833.jpg	val	images/val/Aphids_866.jpg	0
+train	images/train/Aphids_835.jpg	val	images/val/Aphids_870.jpg	0
+train	images/train/Aphids_835.jpg	val	images/val/Aphids_878.jpg	0
+train	images/train/Aphids_876.jpg	val	images/val/Aphids_837.jpg	0
+train	images/train/Army_worm_236.jpg	val	images/val/Army_worm_529.jpg	0
+train	images/train/Army_worm_420.jpg	val	images/val/Army_worm_557.jpg	0
+train	images/train/Army_worm_44.jpg	val	images/val/Army_worm_156.jpg	0
+train	images/train/Army_worm_98.jpg	val	images/val/Army_worm_10.jpg	0
+train	images/train/Corn_Blight_802.jpg	val	images/val/Corn_Blight_672.jpg	0
+train	images/train/Corn_Health (825).jpg	val	images/val/Corn_Health (288).jpg	0
+train	images/train/Corn_borer_1009.jpg	val	images/val/Corn_borer_863.jpg	0
+train	images/train/Corn_borer_2.jpg	val	images/val/Corn_borer_320.jpg	0
+train	images/train/Corn_borer_228.jpg	val	images/val/Corn_borer_612.jpg	0
+train	images/train/Corn_borer_256.jpg	val	images/val/Corn_borer_730.jpg	0
+train	images/train/Corn_borer_294.jpg	val	images/val/Corn_borer_302.jpg	0
+train	images/train/Corn_borer_310.jpg	val	images/val/Corn_borer_846.jpg	0
+train	images/train/Corn_borer_62.jpg	val	images/val/Corn_borer_708.jpg	0
+train	images/train/Corn_borer_78.jpg	val	images/val/Corn_borer_568.jpg	0
+train	images/train/Corn_borer_800.jpg	val	images/val/Corn_borer_336.jpg	0
+train	images/train/Corn_borer_822.jpg	val	images/val/Corn_borer_394.jpg	0
+train	images/train/Corn_borer_824.jpg	val	images/val/Corn_borer_468.jpg	0
+train	images/train/Corn_borer_860.jpg	val	images/val/Corn_borer_1008.jpg	0
+train	images/train/Corn_borer_870.jpg	val	images/val/Corn_borer_859.jpg	0
+train	images/train/Corn_borer_998.jpg	val	images/val/Corn_borer_994.jpg	0
+train	images/train/Gray_Leaf_Spot_211.jpg	val	images/val/Corn_Blight_114.jpg	0
+train	images/train/aug1_c4_00009.jpg	val	images/val/Corn_borer_308.jpg	0
+train	images/train/aug1_c4_00010.jpg	val	images/val/Corn_borer_730.jpg	0
+train	images/train/aug1_c4_00012.jpg	val	images/val/Corn_borer_58.jpg	0
+train	images/train/aug1_c4_00028.jpg	val	images/val/Corn_borer_898.jpg	0
+train	images/train/aug1_c4_00035.jpg	val	images/val/Corn_borer_1035.jpg	0
+train	images/train/aug1_c4_00043.jpg	val	images/val/Corn_borer_977.jpg	0
+train	images/train/aug1_c4_00066.jpg	val	images/val/Corn_borer_220.jpg	0
+train	images/train/aug1_c4_00090.jpg	val	images/val/Corn_borer_859.jpg	0
+train	images/train/aug1_c4_00091.jpg	val	images/val/Corn_borer_908.jpg	0
+train	images/train/aug1_c4_00094.jpg	val	images/val/Corn_borer_708.jpg	0
+train	images/train/aug1_c4_00120.jpg	val	images/val/Corn_borer_908.jpg	0
+train	images/train/aug1_c4_00141.jpg	val	images/val/Corn_borer_859.jpg	0
+train	images/train/aug1_c4_00150.jpg	val	images/val/Corn_borer_220.jpg	0
+train	images/train/aug1_c4_00152.jpg	val	images/val/Corn_borer_340.jpg	0
+train	images/train/aug1_c4_00185.jpg	val	images/val/Corn_borer_180.jpg	0
+train	images/train/aug1_c4_00192.jpg	val	images/val/Corn_borer_282.jpg	0
+train	images/train/aug1_c4_00224.jpg	val	images/val/Corn_borer_859.jpg	0
+train	images/train/aug1_c4_00249.jpg	val	images/val/Corn_borer_1033.jpg	0
+train	images/train/aug1_c4_00252.jpg	val	images/val/Corn_borer_1008.jpg	0
+train	images/train/aug1_c4_00274.jpg	val	images/val/Corn_borer_52.jpg	0
+train	images/train/aug1_c4_00284.jpg	val	images/val/Corn_borer_390.jpg	0
+train	images/train/aug1_c4_00296.jpg	val	images/val/Corn_borer_274.jpg	0
+train	images/train/aug1_c4_00307.jpg	val	images/val/Corn_borer_730.jpg	0
+train	images/train/aug1_c4_00323.jpg	val	images/val/Corn_borer_254.jpg	0
+train	images/train/aug1_c5_00007.jpg	val	images/val/Army_worm_518.jpg	0
+train	images/train/aug1_c5_00024.jpg	val	images/val/Army_worm_455.jpg	0
+train	images/train/aug1_c5_00057.jpg	val	images/val/Army_worm_614.jpg	0
+train	images/train/aug1_c5_00058.jpg	val	images/val/Army_worm_429.jpg	0
+train	images/train/aug1_c5_00058.jpg	val	images/val/Army_worm_577.jpg	0
+train	images/train/aug1_c5_00079.jpg	val	images/val/Army_worm_557.jpg	0
+train	images/train/aug1_c5_00091.jpg	val	images/val/Army_worm_154.jpg	0
+train	images/train/aug1_c5_00093.jpg	val	images/val/Army_worm_518.jpg	0
+train	images/train/aug1_c5_00105.jpg	val	images/val/Army_worm_557.jpg	0
+train	images/train/aug1_c5_00139.jpg	val	images/val/Army_worm_156.jpg	0
+train	images/train/aug1_c5_00174.jpg	val	images/val/Army_worm_46.jpg	0
+train	images/train/aug1_c5_00178.jpg	val	images/val/Army_worm_46.jpg	0
+train	images/train/aug1_c5_00190.jpg	val	images/val/Army_worm_415.jpg	0
+train	images/train/aug1_c5_00191.jpg	val	images/val/Army_worm_515.jpg	0
+train	images/train/aug1_c5_00212.jpg	val	images/val/Army_worm_10.jpg	0
+train	images/train/aug1_c5_00229.jpg	val	images/val/Army_worm_476.jpg	0
+train	images/train/aug1_c5_00237.jpg	val	images/val/Army_worm_614.jpg	0
+train	images/train/aug1_c5_00274.jpg	val	images/val/Army_worm_590.jpg	0
+train	images/train/aug1_c5_00297.jpg	val	images/val/Army_worm_429.jpg	0
+train	images/train/aug1_c5_00297.jpg	val	images/val/Army_worm_577.jpg	0
+train	images/train/aug1_c5_00309.jpg	val	images/val/Army_worm_360.jpg	0
+train	images/train/aug1_c5_00314.jpg	val	images/val/Army_worm_294.jpg	0
+train	images/train/aug1_c5_00318.jpg	val	images/val/Army_worm_374.jpg	0
+train	images/train/aug1_c5_00326.jpg	val	images/val/Army_worm_386.jpg	0
+train	images/train/aug1_c5_00327.jpg	val	images/val/Army_worm_378.jpg	0
+train	images/train/aug1_c5_00333.jpg	val	images/val/Army_worm_216.jpg	0
+train	images/train/aug1_c5_00359.jpg	val	images/val/Army_worm_288.jpg	0
+train	images/train/aug1_c5_00360.jpg	val	images/val/Army_worm_104.jpg	0
+train	images/train/aug1_c5_00370.jpg	val	images/val/Army_worm_429.jpg	0
+train	images/train/aug1_c5_00370.jpg	val	images/val/Army_worm_577.jpg	0
+train	images/train/aug1_c5_00375.jpg	val	images/val/Army_worm_518.jpg	0
+train	images/train/aug1_c5_00387.jpg	val	images/val/Army_worm_529.jpg	0
+train	images/train/aug1_c5_00403.jpg	val	images/val/Army_worm_156.jpg	0
+train	images/train/aug1_c5_00410.jpg	val	images/val/Army_worm_557.jpg	0
+train	images/train/aug1_c5_00411.jpg	val	images/val/Army_worm_156.jpg	0
+train	images/train/aug1_c5_00417.jpg	val	images/val/Army_worm_419.jpg	0
+train	images/train/aug1_c5_00419.jpg	val	images/val/Army_worm_104.jpg	0
+train	images/train/aug1_c5_00445.jpg	val	images/val/Army_worm_250.jpg	0
+train	images/train/aug1_c5_00464.jpg	val	images/val/Army_worm_557.jpg	0
+train	images/train/aug1_c5_00470.jpg	val	images/val/Army_worm_378.jpg	0
+train	images/train/aug1_c5_00492.jpg	val	images/val/Army_worm_194.jpg	0
+train	images/train/aug1_c5_00495.jpg	val	images/val/Army_worm_533.jpg	0
+train	images/train/Aphids_171.jpg	val	images/val/Aphids_342.jpg	1
+train	images/train/Aphids_704.jpg	val	images/val/Aphids_662.jpg	1
+train	images/train/Aphids_840.jpg	val	images/val/Aphids_666.jpg	1
+train	images/train/Aphids_840.jpg	val	images/val/Aphids_735.jpg	1
+train	images/train/Aphids_840.jpg	val	images/val/Aphids_866.jpg	1
+train	images/train/Corn_Blight_1049.jpg	val	images/val/Corn_Blight_715.jpg	1
+train	images/train/Corn_Blight_370.jpg	val	images/val/Corn_Health (288).jpg	1
+train	images/train/Corn_Common_Rust (438).jpg	val	images/val/Corn_Common_Rust (411).jpg	1
+train	images/train/Corn_Health (1003).jpg	val	images/val/Aphids_56.jpg	1
+train	images/train/Corn_Health (372).jpg	val	images/val/Corn_Health (199).jpg	1
+train	images/train/Corn_borer_998.jpg	val	images/val/Corn_borer_959.jpg	1
+train	images/train/aug1_c4_00045.jpg	val	images/val/Corn_borer_336.jpg	1
+train	images/train/aug1_c4_00078.jpg	val	images/val/Corn_borer_468.jpg	1
+train	images/train/aug1_c4_00152.jpg	val	images/val/Corn_borer_4.jpg	1
+train	images/train/aug1_c4_00152.jpg	val	images/val/Corn_borer_430.jpg	1
+train	images/train/aug1_c4_00152.jpg	val	images/val/Corn_borer_750.jpg	1
+train	images/train/aug1_c5_00004.jpg	val	images/val/Army_worm_429.jpg	1
+train	images/train/aug1_c5_00004.jpg	val	images/val/Army_worm_577.jpg	1
+train	images/train/aug1_c5_00050.jpg	val	images/val/Army_worm_226.jpg	1
+train	images/train/aug1_c5_00081.jpg	val	images/val/Army_worm_506.jpg	1
+train	images/train/aug1_c5_00110.jpg	val	images/val/Army_worm_250.jpg	1
+train	images/train/aug1_c5_00194.jpg	val	images/val/Army_worm_486.jpg	1
+train	images/train/aug1_c5_00303.jpg	val	images/val/Army_worm_583.jpg	1
+train	images/train/aug1_c5_00320.jpg	val	images/val/Army_worm_202.jpg	1
+train	images/train/aug1_c5_00348.jpg	val	images/val/Army_worm_218.jpg	1
+train	images/train/aug1_c5_00364.jpg	val	images/val/Army_worm_142.jpg	1
+train	images/train/aug1_c5_00458.jpg	val	images/val/Army_worm_10.jpg	1
+train	images/train/aug1_c5_00498.jpg	val	images/val/Army_worm_481.jpg	1
+train	images/train/Aphids_216.jpg	val	images/val/Aphids_178.jpg	2
+train	images/train/Aphids_232.jpg	val	images/val/Corn_Health (24).jpg	2
+train	images/train/Aphids_238.jpg	val	images/val/Aphids_342.jpg	2
+train	images/train/Aphids_338.jpg	val	images/val/Aphids_287.jpg	2
+train	images/train/Aphids_429.jpg	val	images/val/Corn_Health (585).jpg	2
+train	images/train/Aphids_480.jpg	val	images/val/Corn_Health (1092).jpg	2
+train	images/train/Aphids_559.jpg	val	images/val/Aphids_177.jpg	2
+train	images/train/Aphids_705.jpg	val	images/val/Aphids_713.jpg	2
+train	images/train/Aphids_717.jpg	val	images/val/Aphids_735.jpg	2
+train	images/train/Aphids_717.jpg	val	images/val/Aphids_866.jpg	2
+train	images/train/Aphids_733.jpg	val	images/val/Aphids_666.jpg	2
+train	images/train/Aphids_734.jpg	val	images/val/Aphids_666.jpg	2
+train	images/train/Aphids_747.jpg	val	images/val/Aphids_735.jpg	2
+train	images/train/Aphids_747.jpg	val	images/val/Aphids_866.jpg	2
+train	images/train/Aphids_753.jpg	val	images/val/Aphids_666.jpg	2
+train	images/train/Aphids_754.jpg	val	images/val/Aphids_735.jpg	2
+train	images/train/Aphids_754.jpg	val	images/val/Aphids_866.jpg	2
+train	images/train/Aphids_778.jpg	val	images/val/Aphids_813.jpg	2
+train	images/train/Aphids_809.jpg	val	images/val/Aphids_666.jpg	2
+train	images/train/Aphids_833.jpg	val	images/val/Aphids_666.jpg	2
+train	images/train/Aphids_844.jpg	val	images/val/Aphids_666.jpg	2
+train	images/train/Aphids_844.jpg	val	images/val/Aphids_735.jpg	2
+train	images/train/Aphids_844.jpg	val	images/val/Aphids_866.jpg	2
+train	images/train/Aphids_848.jpg	val	images/val/Aphids_724.jpg	2
+train	images/train/Aphids_855.jpg	val	images/val/Aphids_662.jpg	2
+train	images/train/Army_worm_606.jpg	val	images/val/Army_worm_411.jpg	2
+train	images/train/Corn_Blight_1160.jpg	val	images/val/Gray_Leaf_Spot_144.jpg	2
+train	images/train/Corn_Blight_131.jpg	val	images/val/Corn_Health (812).jpg	2
+train	images/train/Corn_Blight_203.jpg	val	images/val/Aphids_968.jpg	2
+train	images/train/Corn_Blight_255.jpg	val	images/val/Aphids_354.jpg	2
+train	images/train/Corn_Common_Rust (307).jpg	val	images/val/Corn_Common_Rust (366).jpg	2
+train	images/train/Corn_Common_Rust (75).jpg	val	images/val/Corn_Common_Rust (683).jpg	2
+train	images/train/Corn_Common_Rust (786).jpg	val	images/val/Corn_Common_Rust (313).jpg	2
+train	images/train/Corn_Health (462).jpg	val	images/val/Corn_Health (24).jpg	2
+train	images/train/Corn_Health (547).jpg	val	images/val/Corn_borer_254.jpg	2
+train	images/train/Corn_Health (715).jpg	val	images/val/Corn_Health (473).jpg	2
+train	images/train/Corn_Health (971).jpg	val	images/val/Gray_Leaf_Spot_159.jpg	2
+train	images/train/Corn_borer_110.jpg	val	images/val/Corn_borer_612.jpg	2
+train	images/train/Corn_borer_266.jpg	val	images/val/Army_worm_46.jpg	2
+train	images/train/Corn_borer_348.jpg	val	images/val/Corn_borer_1021.jpg	2
+train	images/train/aug1_c4_00075.jpg	val	images/val/Corn_borer_612.jpg	2
+train	images/train/aug1_c4_00241.jpg	val	images/val/Corn_borer_730.jpg	2
+train	images/train/aug1_c5_00127.jpg	val	images/val/Army_worm_290.jpg	2
+train	images/train/aug1_c5_00465.jpg	val	images/val/Army_worm_10.jpg	2
+train	images/train/Aphids_107.jpg	val	images/val/Aphids_713.jpg	3
+train	images/train/Aphids_131.jpg	val	images/val/Aphids_334.jpg	3
+train	images/train/Aphids_163.jpg	val	images/val/Aphids_854.jpg	3
+train	images/train/Aphids_167.jpg	val	images/val/Aphids_342.jpg	3
+train	images/train/Aphids_179.jpg	val	images/val/Corn_Health (24).jpg	3
+train	images/train/Aphids_189.jpg	val	images/val/Aphids_173.jpg	3
+train	images/train/Aphids_189.jpg	val	images/val/Aphids_177.jpg	3
+train	images/train/Aphids_206.jpg	val	images/val/Aphids_511.jpg	3
+train	images/train/Aphids_222.jpg	val	images/val/Aphids_854.jpg	3
+train	images/train/Aphids_227.jpg	val	images/val/Aphids_713.jpg	3
+train	images/train/Aphids_232.jpg	val	images/val/Aphids_968.jpg	3
+train	images/train/Aphids_232.jpg	val	images/val/Corn_Health (734).jpg	3
+train	images/train/Aphids_248.jpg	val	images/val/Aphids_377.jpg	3
+train	images/train/Aphids_314.jpg	val	images/val/Aphids_908.jpg	3
+train	images/train/Aphids_315.jpg	val	images/val/Army_worm_476.jpg	3
+train	images/train/Aphids_330.jpg	val	images/val/Aphids_271.jpg	3
+train	images/train/Aphids_350.jpg	val	images/val/Aphids_132.jpg	3
+train	images/train/Aphids_371.jpg	val	images/val/Aphids_415.jpg	3
+train	images/train/Aphids_467.jpg	val	images/val/Aphids_173.jpg	3
+train	images/train/Aphids_499.jpg	val	images/val/Aphids_842.jpg	3
+train	images/train/Aphids_528.jpg	val	images/val/Aphids_662.jpg	3
+train	images/train/Aphids_554.jpg	val	images/val/Aphids_173.jpg	3
+train	images/train/Aphids_559.jpg	val	images/val/Aphids_128.jpg	3
+train	images/train/Aphids_705.jpg	val	images/val/Aphids_854.jpg	3
+train	images/train/Aphids_717.jpg	val	images/val/Aphids_854.jpg	3
+train	images/train/Aphids_733.jpg	val	images/val/Aphids_854.jpg	3
+train	images/train/Aphids_734.jpg	val	images/val/Aphids_854.jpg	3
+train	images/train/Aphids_753.jpg	val	images/val/Aphids_854.jpg	3
+train	images/train/Aphids_756.jpg	val	images/val/Aphids_271.jpg	3
+train	images/train/Aphids_762.jpg	val	images/val/Aphids_713.jpg	3
+train	images/train/Aphids_833.jpg	val	images/val/Aphids_854.jpg	3
+train	images/train/Aphids_89.jpg	val	images/val/Corn_Health (24).jpg	3
+train	images/train/Aphids_905.jpg	val	images/val/Aphids_302.jpg	3
+train	images/train/Army_worm_236.jpg	val	images/val/Corn_Health (473).jpg	3
+train	images/train/Army_worm_278.jpg	val	images/val/Army_worm_476.jpg	3
+train	images/train/Army_worm_550.jpg	val	images/val/Army_worm_476.jpg	3
+train	images/train/Corn_Blight_203.jpg	val	images/val/Corn_Health (24).jpg	3
+train	images/train/Corn_Blight_635.jpg	val	images/val/Corn_Health (812).jpg	3
+train	images/train/Corn_Blight_882.jpg	val	images/val/Aphids_842.jpg	3
+train	images/train/Corn_Blight_933.jpg	val	images/val/Aphids_842.jpg	3
+train	images/train/Corn_Common_Rust (1004).jpg	val	images/val/Corn_Common_Rust (968).jpg	3
+train	images/train/Corn_Common_Rust (1054).jpg	val	images/val/Corn_Common_Rust (981).jpg	3
+train	images/train/Corn_Common_Rust (1285).jpg	val	images/val/Aphids_968.jpg	3
+train	images/train/Corn_Common_Rust (227).jpg	val	images/val/Corn_Common_Rust (1053).jpg	3
+train	images/train/Corn_Common_Rust (266).jpg	val	images/val/Corn_Common_Rust (340).jpg	3
+train	images/train/Corn_Common_Rust (307).jpg	val	images/val/Corn_Common_Rust (300).jpg	3
+train	images/train/Corn_Common_Rust (454).jpg	val	images/val/Corn_Common_Rust (1053).jpg	3
+train	images/train/Corn_Common_Rust (480).jpg	val	images/val/Corn_Common_Rust (325).jpg	3
+train	images/train/Corn_Common_Rust (481).jpg	val	images/val/Corn_Common_Rust (724).jpg	3
+train	images/train/Corn_Common_Rust (522).jpg	val	images/val/Corn_Common_Rust (912).jpg	3
+train	images/train/Corn_Common_Rust (569).jpg	val	images/val/Corn_Common_Rust (724).jpg	3
+train	images/train/Corn_Common_Rust (587).jpg	val	images/val/Corn_Common_Rust (208).jpg	3
+train	images/train/Corn_Common_Rust (772).jpg	val	images/val/Corn_Common_Rust (340).jpg	3
+train	images/train/Corn_Common_Rust (786).jpg	val	images/val/Corn_Common_Rust (1008).jpg	3
+train	images/train/Corn_Common_Rust (795).jpg	val	images/val/Corn_Common_Rust (335).jpg	3
+train	images/train/Corn_Common_Rust (954).jpg	val	images/val/Corn_Common_Rust (208).jpg	3
+train	images/train/Corn_Common_Rust (954).jpg	val	images/val/Corn_Common_Rust (944).jpg	3
+train	images/train/Corn_Common_Rust (960).jpg	val	images/val/Corn_Common_Rust (944).jpg	3
+train	images/train/Corn_Common_Rust (964).jpg	val	images/val/Corn_Common_Rust (981).jpg	3
+train	images/train/Corn_Common_Rust (974).jpg	val	images/val/Corn_Common_Rust (708).jpg	3
+train	images/train/Corn_Common_Rust (984).jpg	val	images/val/Corn_Common_Rust (898).jpg	3
+train	images/train/Corn_Common_Rust (989).jpg	val	images/val/Corn_Common_Rust (305).jpg	3
+train	images/train/Corn_Health (1068).jpg	val	images/val/Aphids_842.jpg	3
+train	images/train/Corn_Health (141).jpg	val	images/val/Aphids_713.jpg	3
+train	images/train/Corn_Health (187).jpg	val	images/val/Corn_Health (24).jpg	3
+train	images/train/Corn_Health (352).jpg	val	images/val/Corn_Blight_715.jpg	3
+train	images/train/Corn_Health (388).jpg	val	images/val/Corn_Health (585).jpg	3
+train	images/train/Corn_Health (462).jpg	val	images/val/Aphids_968.jpg	3
+train	images/train/Corn_Health (462).jpg	val	images/val/Corn_Health (734).jpg	3
+train	images/train/Corn_Health (50).jpg	val	images/val/Corn_Health (812).jpg	3
+train	images/train/Corn_Health (502).jpg	val	images/val/Corn_Blight_715.jpg	3
+train	images/train/Corn_Health (543).jpg	val	images/val/Corn_Health (233).jpg	3
+train	images/train/Corn_Health (602).jpg	val	images/val/Army_worm_529.jpg	3
+train	images/train/Corn_Health (715).jpg	val	images/val/Army_worm_529.jpg	3
+train	images/train/Corn_Health (743).jpg	val	images/val/Corn_Blight_859.jpg	3
+train	images/train/Corn_borer_1007.jpg	val	images/val/Corn_borer_859.jpg	3
+train	images/train/Corn_borer_24.jpg	val	images/val/Corn_borer_320.jpg	3
+train	images/train/Corn_borer_46.jpg	val	images/val/Corn_borer_320.jpg	3
+train	images/train/Corn_borer_706.jpg	val	images/val/Aphids_507.jpg	3
+train	images/train/Corn_borer_84.jpg	val	images/val/Corn_borer_612.jpg	3
+train	images/train/Corn_borer_848.jpg	val	images/val/Corn_borer_859.jpg	3
+train	images/train/aug1_c4_00033.jpg	val	images/val/Corn_borer_302.jpg	3
+train	images/train/aug1_c4_00256.jpg	val	images/val/Army_worm_46.jpg	3
+train	images/train/aug1_c4_00314.jpg	val	images/val/Corn_borer_911.jpg	3
+train	images/train/aug1_c4_00354.jpg	val	images/val/Aphids_507.jpg	3
+train	images/train/aug1_c4_00357.jpg	val	images/val/Corn_borer_859.jpg	3
+train	images/train/aug1_c5_00098.jpg	val	images/val/Army_worm_476.jpg	3
+train	images/train/aug1_c5_00112.jpg	val	images/val/Army_worm_10.jpg	3
+train	images/train/aug1_c5_00238.jpg	val	images/val/Army_worm_476.jpg	3
+train	images/train/aug1_c5_00277.jpg	val	images/val/Army_worm_529.jpg	3
+train	images/train/aug1_c5_00387.jpg	val	images/val/Corn_Health (473).jpg	3
+train	images/train/aug1_c5_00459.jpg	val	images/val/Army_worm_202.jpg	3
+train	images/train/mosaic_00264.jpg	val	images/val/Aphids_520.jpg	3
+train	images/train/Aphids_107.jpg	val	images/val/Aphids_854.jpg	4
+train	images/train/Aphids_122.jpg	val	images/val/Aphids_364.jpg	4
+train	images/train/Aphids_174.jpg	val	images/val/Aphids_173.jpg	4
+train	images/train/Aphids_179.jpg	val	images/val/Corn_Health (233).jpg	4
+train	images/train/Aphids_179.jpg	val	images/val/Corn_Health (969).jpg	4
+train	images/train/Aphids_209.jpg	val	images/val/Aphids_178.jpg	4
+train	images/train/Aphids_209.jpg	val	images/val/Aphids_377.jpg	4
+train	images/train/Aphids_214.jpg	val	images/val/Aphids_334.jpg	4
+train	images/train/Aphids_224.jpg	val	images/val/Aphids_364.jpg	4
+train	images/train/Aphids_227.jpg	val	images/val/Aphids_854.jpg	4
+train	images/train/Aphids_227.jpg	val	images/val/Aphids_964.jpg	4
+train	images/train/Aphids_232.jpg	val	images/val/Corn_Blight_956.jpg	4
+train	images/train/Aphids_236.jpg	val	images/val/Corn_Blight_696.jpg	4
+train	images/train/Aphids_255.jpg	val	images/val/Aphids_29.jpg	4
+train	images/train/Aphids_300.jpg	val	images/val/Aphids_770.jpg	4
+train	images/train/Aphids_325.jpg	val	images/val/Aphids_854.jpg	4
+train	images/train/Aphids_325.jpg	val	images/val/Corn_Blight_696.jpg	4
+train	images/train/Aphids_326.jpg	val	images/val/Aphids_173.jpg	4
+train	images/train/Aphids_336.jpg	val	images/val/Aphids_271.jpg	4
+train	images/train/Aphids_358.jpg	val	images/val/Aphids_243.jpg	4
+train	images/train/Aphids_362.jpg	val	images/val/Aphids_271.jpg	4
+train	images/train/Aphids_362.jpg	val	images/val/Aphids_334.jpg	4
+train	images/train/Aphids_370.jpg	val	images/val/Aphids_415.jpg	4
+train	images/train/Aphids_370.jpg	val	images/val/Corn_Blight_956.jpg	4
+train	images/train/Aphids_370.jpg	val	images/val/Corn_Health (601).jpg	4
+train	images/train/Aphids_371.jpg	val	images/val/Gray_Leaf_Spot_395.jpg	4
+train	images/train/Aphids_383.jpg	val	images/val/Corn_Health (734).jpg	4
+train	images/train/Aphids_383.jpg	val	images/val/Corn_Health (969).jpg	4
+train	images/train/Aphids_407.jpg	val	images/val/Gray_Leaf_Spot_395.jpg	4
+train	images/train/Aphids_416.jpg	val	images/val/Aphids_415.jpg	4
+train	images/train/Aphids_416.jpg	val	images/val/Corn_Blight_956.jpg	4
+train	images/train/Aphids_458.jpg	val	images/val/Aphids_471.jpg	4
+train	images/train/Aphids_458.jpg	val	images/val/Corn_Health (473).jpg	4
+train	images/train/Aphids_467.jpg	val	images/val/Aphids_141.jpg	4
+train	images/train/Aphids_467.jpg	val	images/val/Aphids_993.jpg	4
+train	images/train/Aphids_559.jpg	val	images/val/Aphids_173.jpg	4
+train	images/train/Aphids_59.jpg	val	images/val/Aphids_770.jpg	4
+train	images/train/Aphids_607.jpg	val	images/val/Aphids_780.jpg	4
+train	images/train/Aphids_638.jpg	val	images/val/Corn_Blight_696.jpg	4
+train	images/train/Aphids_705.jpg	val	images/val/Aphids_735.jpg	4
+train	images/train/Aphids_705.jpg	val	images/val/Aphids_866.jpg	4
+train	images/train/Aphids_717.jpg	val	images/val/Aphids_666.jpg	4
+train	images/train/Aphids_717.jpg	val	images/val/Aphids_713.jpg	4
+train	images/train/Aphids_743.jpg	val	images/val/Aphids_713.jpg	4
+train	images/train/Aphids_76.jpg	val	images/val/Aphids_471.jpg	4
+train	images/train/Aphids_762.jpg	val	images/val/Aphids_854.jpg	4
+train	images/train/Aphids_809.jpg	val	images/val/Aphids_735.jpg	4
+train	images/train/Aphids_809.jpg	val	images/val/Aphids_866.jpg	4
+train	images/train/Aphids_840.jpg	val	images/val/Aphids_854.jpg	4
+train	images/train/Aphids_860.jpg	val	images/val/Aphids_695.jpg	4
+train	images/train/Aphids_89.jpg	val	images/val/Corn_Health (734).jpg	4
+train	images/train/Aphids_935.jpg	val	images/val/Corn_Health (376).jpg	4
+train	images/train/Army_worm_132.jpg	val	images/val/Corn_Health (734).jpg	4
+train	images/train/Army_worm_428.jpg	val	images/val/Aphids_968.jpg	4
+train	images/train/Army_worm_512.jpg	val	images/val/Corn_Blight_1217.jpg	4
+train	images/train/Army_worm_528.jpg	val	images/val/Aphids_968.jpg	4
+train	images/train/Corn_Blight_1049.jpg	val	images/val/Corn_Health (923).jpg	4
+train	images/train/Corn_Blight_1104.jpg	val	images/val/Gray_Leaf_Spot_67.jpg	4
+train	images/train/Corn_Blight_203.jpg	val	images/val/Corn_Blight_437.jpg	4
+train	images/train/Corn_Blight_204.jpg	val	images/val/Corn_Health (353).jpg	4
+train	images/train/Corn_Blight_379.jpg	val	images/val/Corn_Health (288).jpg	4
+train	images/train/Corn_Blight_71.jpg	val	images/val/Aphids_507.jpg	4
+train	images/train/Corn_Blight_787.jpg	val	images/val/Gray_Leaf_Spot_98.jpg	4
+train	images/train/Corn_Common_Rust (1004).jpg	val	images/val/Corn_Common_Rust (981).jpg	4
+train	images/train/Corn_Common_Rust (1015).jpg	val	images/val/Corn_Common_Rust (423).jpg	4
+train	images/train/Corn_Common_Rust (1054).jpg	val	images/val/Corn_Common_Rust (305).jpg	4
+train	images/train/Corn_Common_Rust (1054).jpg	val	images/val/Corn_Common_Rust (968).jpg	4
+train	images/train/Corn_Common_Rust (106).jpg	val	images/val/Aphids_410.jpg	4
+train	images/train/Corn_Common_Rust (1105).jpg	val	images/val/Corn_Common_Rust (975).jpg	4
+train	images/train/Corn_Common_Rust (121).jpg	val	images/val/Corn_Common_Rust (318).jpg	4
+train	images/train/Corn_Common_Rust (1285).jpg	val	images/val/Corn_Health (24).jpg	4
+train	images/train/Corn_Common_Rust (169).jpg	val	images/val/Corn_Common_Rust (673).jpg	4
+train	images/train/Corn_Common_Rust (333).jpg	val	images/val/Corn_Common_Rust (650).jpg	4
+train	images/train/Corn_Common_Rust (347).jpg	val	images/val/Corn_Common_Rust (597).jpg	4
+train	images/train/Corn_Common_Rust (367).jpg	val	images/val/Corn_Common_Rust (305).jpg	4
+train	images/train/Corn_Common_Rust (414).jpg	val	images/val/Corn_Common_Rust (724).jpg	4
+train	images/train/Corn_Common_Rust (418).jpg	val	images/val/Corn_Common_Rust (208).jpg	4
+train	images/train/Corn_Common_Rust (441).jpg	val	images/val/Corn_Common_Rust (187).jpg	4
+train	images/train/Corn_Common_Rust (482).jpg	val	images/val/Corn_Common_Rust (318).jpg	4
+train	images/train/Corn_Common_Rust (492).jpg	val	images/val/Corn_Common_Rust (1008).jpg	4
+train	images/train/Corn_Common_Rust (495).jpg	val	images/val/Corn_Common_Rust (968).jpg	4
+train	images/train/Corn_Common_Rust (51).jpg	val	images/val/Aphids_415.jpg	4
+train	images/train/Corn_Common_Rust (523).jpg	val	images/val/Corn_Common_Rust (1046).jpg	4
+train	images/train/Corn_Common_Rust (557).jpg	val	images/val/Corn_Common_Rust (208).jpg	4
+train	images/train/Corn_Common_Rust (559).jpg	val	images/val/Corn_Common_Rust (208).jpg	4
+train	images/train/Corn_Common_Rust (587).jpg	val	images/val/Corn_Common_Rust (708).jpg	4
+train	images/train/Corn_Common_Rust (627).jpg	val	images/val/Corn_Common_Rust (944).jpg	4
+train	images/train/Corn_Common_Rust (684).jpg	val	images/val/Corn_Common_Rust (1248).jpg	4
+train	images/train/Corn_Common_Rust (696).jpg	val	images/val/Corn_Common_Rust (340).jpg	4
+train	images/train/Corn_Common_Rust (696).jpg	val	images/val/Corn_Common_Rust (650).jpg	4
+train	images/train/Corn_Common_Rust (758).jpg	val	images/val/Corn_Common_Rust (752).jpg	4
+train	images/train/Corn_Common_Rust (760).jpg	val	images/val/Corn_Common_Rust (340).jpg	4
+train	images/train/Corn_Common_Rust (760).jpg	val	images/val/Corn_Common_Rust (650).jpg	4
+train	images/train/Corn_Common_Rust (856).jpg	val	images/val/Corn_Common_Rust (752).jpg	4
+train	images/train/Corn_Common_Rust (886).jpg	val	images/val/Corn_Common_Rust (1029).jpg	4
+train	images/train/Corn_Common_Rust (906).jpg	val	images/val/Corn_Common_Rust (325).jpg	4
+train	images/train/Corn_Common_Rust (908).jpg	val	images/val/Corn_Common_Rust (198).jpg	4
+train	images/train/Corn_Common_Rust (958).jpg	val	images/val/Corn_Common_Rust (1127).jpg	4
+train	images/train/Corn_Common_Rust (964).jpg	val	images/val/Corn_Common_Rust (305).jpg	4
+train	images/train/Corn_Common_Rust (974).jpg	val	images/val/Corn_Common_Rust (208).jpg	4
+train	images/train/Corn_Common_Rust (974).jpg	val	images/val/Corn_Common_Rust (944).jpg	4
+train	images/train/Corn_Common_Rust (989).jpg	val	images/val/Corn_Common_Rust (981).jpg	4
+train	images/train/Corn_Common_Rust (993).jpg	val	images/val/Corn_Common_Rust (208).jpg	4
+train	images/train/Corn_Health (1035).jpg	val	images/val/Corn_Health (585).jpg	4
+train	images/train/Corn_Health (107).jpg	val	images/val/Corn_Health (703).jpg	4
+train	images/train/Corn_Health (1128).jpg	val	images/val/Corn_Health (585).jpg	4
+train	images/train/Corn_Health (141).jpg	val	images/val/Aphids_854.jpg	4
+train	images/train/Corn_Health (187).jpg	val	images/val/Corn_Health (969).jpg	4
+train	images/train/Corn_Health (223).jpg	val	images/val/Aphids_713.jpg	4
+train	images/train/Corn_Health (294).jpg	val	images/val/Gray_Leaf_Spot_159.jpg	4
+train	images/train/Corn_Health (358).jpg	val	images/val/Corn_Blight_696.jpg	4
+train	images/train/Corn_Health (388).jpg	val	images/val/Aphids_56.jpg	4
+train	images/train/Corn_Health (394).jpg	val	images/val/Corn_Health (812).jpg	4
+train	images/train/Corn_Health (462).jpg	val	images/val/Corn_Blight_956.jpg	4
+train	images/train/Corn_Health (602).jpg	val	images/val/Corn_Health (473).jpg	4
+train	images/train/Corn_Health (796).jpg	val	images/val/Corn_Health (1092).jpg	4
+train	images/train/Corn_Health (823).jpg	val	images/val/Corn_Blight_696.jpg	4
+train	images/train/Corn_Health (978).jpg	val	images/val/Corn_Health (376).jpg	4
+train	images/train/Corn_Health (982).jpg	val	images/val/Corn_Health (233).jpg	4
+train	images/train/Corn_Health (982).jpg	val	images/val/Corn_Health (585).jpg	4
+train	images/train/Corn_borer_100.jpg	val	images/val/Aphids_186.jpg	4
+train	images/train/Corn_borer_100.jpg	val	images/val/Aphids_207.jpg	4
+train	images/train/Corn_borer_372.jpg	val	images/val/Corn_borer_1033.jpg	4
+train	images/train/Corn_borer_706.jpg	val	images/val/Corn_borer_1002.jpg	4
+train	images/train/Corn_borer_706.jpg	val	images/val/Corn_borer_846.jpg	4
+train	images/train/Corn_borer_760.jpg	val	images/val/Corn_borer_812.jpg	4
+train	images/train/Corn_borer_950.jpg	val	images/val/Corn_borer_568.jpg	4
+train	images/train/Gray_Leaf_Spot_330.jpg	val	images/val/Aphids_770.jpg	4
+train	images/train/Gray_Leaf_Spot_482.jpg	val	images/val/Aphids_56.jpg	4
+train	images/train/Gray_Leaf_Spot_528.jpg	val	images/val/Aphids_854.jpg	4
+train	images/train/aug1_c3_00070.jpg	val	images/val/Corn_Common_Rust (346).jpg	4
+train	images/train/aug1_c4_00039.jpg	val	images/val/Army_worm_476.jpg	4
+train	images/train/aug1_c4_00048.jpg	val	images/val/Corn_borer_1033.jpg	4
+train	images/train/aug1_c4_00050.jpg	val	images/val/Corn_borer_812.jpg	4
+train	images/train/aug1_c4_00057.jpg	val	images/val/Corn_borer_568.jpg	4
+train	images/train/aug1_c4_00069.jpg	val	images/val/Aphids_37.jpg	4
+train	images/train/aug1_c4_00148.jpg	val	images/val/Corn_borer_1033.jpg	4
+train	images/train/aug1_c4_00238.jpg	val	images/val/Aphids_186.jpg	4
+train	images/train/aug1_c4_00238.jpg	val	images/val/Aphids_207.jpg	4
+train	images/train/aug1_c4_00324.jpg	val	images/val/Aphids_37.jpg	4
+train	images/train/aug1_c4_00354.jpg	val	images/val/Corn_borer_1002.jpg	4
+train	images/train/aug1_c4_00354.jpg	val	images/val/Corn_borer_846.jpg	4
+train	images/train/aug1_c5_00054.jpg	val	images/val/Army_worm_529.jpg	4
+train	images/train/aug1_c5_00054.jpg	val	images/val/Corn_Health (24).jpg	4
+train	images/train/aug1_c5_00259.jpg	val	images/val/Army_worm_454.jpg	4
+train	images/train/aug1_c5_00277.jpg	val	images/val/Aphids_968.jpg	4
+train	images/train/aug1_c5_00334.jpg	val	images/val/Corn_Health (24).jpg	4
+train	images/train/aug1_c5_00337.jpg	val	images/val/Corn_Blight_1217.jpg	4
+train	images/train/aug1_c5_00379.jpg	val	images/val/Aphids_968.jpg	4
+train	images/train/aug1_c5_00425.jpg	val	images/val/Aphids_968.jpg	4
+train	images/train/mosaic_00311.jpg	val	images/val/Aphids_968.jpg	4
+train	images/train/Aphids_114.jpg	val	images/val/Aphids_173.jpg	5
+train	images/train/Aphids_114.jpg	val	images/val/Aphids_177.jpg	5
+train	images/train/Aphids_131.jpg	val	images/val/Aphids_178.jpg	5
+train	images/train/Aphids_131.jpg	val	images/val/Aphids_377.jpg	5
+train	images/train/Aphids_139.jpg	val	images/val/Corn_Health (959).jpg	5
+train	images/train/Aphids_146.jpg	val	images/val/Corn_Health (473).jpg	5
+train	images/train/Aphids_146.jpg	val	images/val/Corn_Health (969).jpg	5
+train	images/train/Aphids_174.jpg	val	images/val/Aphids_128.jpg	5
+train	images/train/Aphids_174.jpg	val	images/val/Aphids_141.jpg	5
+train	images/train/Aphids_174.jpg	val	images/val/Aphids_993.jpg	5
+train	images/train/Aphids_180.jpg	val	images/val/Aphids_364.jpg	5
+train	images/train/Aphids_183.jpg	val	images/val/Corn_Health (288).jpg	5
+train	images/train/Aphids_189.jpg	val	images/val/Aphids_287.jpg	5
+train	images/train/Aphids_196.jpg	val	images/val/Corn_Health (233).jpg	5
+train	images/train/Aphids_196.jpg	val	images/val/Corn_Health (81).jpg	5
+train	images/train/Aphids_224.jpg	val	images/val/Aphids_95.jpg	5
+train	images/train/Aphids_230.jpg	val	images/val/Aphids_280.jpg	5
+train	images/train/Aphids_232.jpg	val	images/val/Corn_Blight_437.jpg	5
+train	images/train/Aphids_232.jpg	val	images/val/Corn_Health (414).jpg	5
+train	images/train/Aphids_232.jpg	val	images/val/Corn_Health (969).jpg	5
+train	images/train/Aphids_252.jpg	val	images/val/Aphids_364.jpg	5
+train	images/train/Aphids_259.jpg	val	images/val/Aphids_287.jpg	5
+train	images/train/Aphids_269.jpg	val	images/val/Aphids_239.jpg	5
+train	images/train/Aphids_300.jpg	val	images/val/Corn_borer_282.jpg	5
+train	images/train/Aphids_300.jpg	val	images/val/Corn_borer_911.jpg	5
+train	images/train/Aphids_305.jpg	val	images/val/Aphids_132.jpg	5
+train	images/train/Aphids_306.jpg	val	images/val/Aphids_186.jpg	5
+train	images/train/Aphids_306.jpg	val	images/val/Aphids_207.jpg	5
+train	images/train/Aphids_317.jpg	val	images/val/Aphids_29.jpg	5
+train	images/train/Aphids_321.jpg	val	images/val/Aphids_186.jpg	5
+train	images/train/Aphids_321.jpg	val	images/val/Aphids_287.jpg	5
+train	images/train/Aphids_325.jpg	val	images/val/Corn_Blight_614.jpg	5
+train	images/train/Aphids_330.jpg	val	images/val/Aphids_334.jpg	5
+train	images/train/Aphids_338.jpg	val	images/val/Aphids_148.jpg	5
+train	images/train/Aphids_338.jpg	val	images/val/Aphids_993.jpg	5
+train	images/train/Aphids_339.jpg	val	images/val/Aphids_178.jpg	5
+train	images/train/Aphids_339.jpg	val	images/val/Aphids_271.jpg	5
+train	images/train/Aphids_347.jpg	val	images/val/Aphids_334.jpg	5
+train	images/train/Aphids_350.jpg	val	images/val/Aphids_178.jpg	5
+train	images/train/Aphids_350.jpg	val	images/val/Aphids_271.jpg	5
+train	images/train/Aphids_365.jpg	val	images/val/Aphids_302.jpg	5
+train	images/train/Aphids_370.jpg	val	images/val/Corn_Health (414).jpg	5
+train	images/train/Aphids_370.jpg	val	images/val/Gray_Leaf_Spot_395.jpg	5
+train	images/train/Aphids_371.jpg	val	images/val/Corn_Blight_956.jpg	5
+train	images/train/Aphids_383.jpg	val	images/val/Corn_Blight_956.jpg	5
+train	images/train/Aphids_383.jpg	val	images/val/Corn_Health (24).jpg	5
+train	images/train/Aphids_407.jpg	val	images/val/Aphids_415.jpg	5
+train	images/train/Aphids_409.jpg	val	images/val/Corn_Blight_333.jpg	5
+train	images/train/Aphids_467.jpg	val	images/val/Aphids_177.jpg	5
+train	images/train/Aphids_467.jpg	val	images/val/Aphids_186.jpg	5
+train	images/train/Aphids_467.jpg	val	images/val/Aphids_287.jpg	5
+train	images/train/Aphids_467.jpg	val	images/val/Aphids_430.jpg	5
+train	images/train/Aphids_493.jpg	val	images/val/Corn_Health (969).jpg	5
+train	images/train/Aphids_5.jpg	val	images/val/Corn_Blight_715.jpg	5
+train	images/train/Aphids_554.jpg	val	images/val/Aphids_177.jpg	5
+train	images/train/Aphids_554.jpg	val	images/val/Aphids_287.jpg	5
+train	images/train/Aphids_559.jpg	val	images/val/Aphids_141.jpg	5
+train	images/train/Aphids_559.jpg	val	images/val/Aphids_302.jpg	5
+train	images/train/Aphids_559.jpg	val	images/val/Army_worm_476.jpg	5
+train	images/train/Aphids_578.jpg	val	images/val/Aphids_837.jpg	5
+train	images/train/Aphids_638.jpg	val	images/val/Corn_Blight_614.jpg	5
+train	images/train/Aphids_679.jpg	val	images/val/Aphids_166.jpg	5
+train	images/train/Aphids_683.jpg	val	images/val/Aphids_445.jpg	5
+train	images/train/Aphids_683.jpg	val	images/val/Aphids_695.jpg	5
+train	images/train/Aphids_691.jpg	val	images/val/Corn_Blight_715.jpg	5
+train	images/train/Aphids_693.jpg	val	images/val/Aphids_964.jpg	5
+train	images/train/Aphids_747.jpg	val	images/val/Aphids_854.jpg	5
+train	images/train/Aphids_754.jpg	val	images/val/Aphids_854.jpg	5
+train	images/train/Aphids_756.jpg	val	images/val/Aphids_342.jpg	5
+train	images/train/Aphids_774.jpg	val	images/val/Aphids_166.jpg	5
+train	images/train/Aphids_844.jpg	val	images/val/Aphids_854.jpg	5
+train	images/train/Aphids_85.jpg	val	images/val/Aphids_770.jpg	5
+train	images/train/Aphids_85.jpg	val	images/val/Aphids_788.jpg	5
+train	images/train/Aphids_85.jpg	val	images/val/Aphids_801.jpg	5
+train	images/train/Aphids_89.jpg	val	images/val/Corn_Blight_956.jpg	5
+train	images/train/Aphids_890.jpg	val	images/val/Aphids_507.jpg	5
+train	images/train/Aphids_905.jpg	val	images/val/Aphids_148.jpg	5
+train	images/train/Aphids_974.jpg	val	images/val/Aphids_287.jpg	5
+train	images/train/Aphids_986.jpg	val	images/val/Aphids_770.jpg	5
+train	images/train/Army_worm_130.jpg	val	images/val/Aphids_207.jpg	5
+train	images/train/Army_worm_132.jpg	val	images/val/Corn_Health (24).jpg	5
+train	images/train/Army_worm_234.jpg	val	images/val/Army_worm_529.jpg	5
+train	images/train/Army_worm_234.jpg	val	images/val/Corn_Health (24).jpg	5
+train	images/train/Army_worm_34.jpg	val	images/val/Army_worm_529.jpg	5
+train	images/train/Army_worm_34.jpg	val	images/val/Corn_Health (24).jpg	5
+train	images/train/Army_worm_428.jpg	val	images/val/Army_worm_529.jpg	5
+train	images/train/Army_worm_428.jpg	val	images/val/Corn_Health (24).jpg	5
+train	images/train/Army_worm_528.jpg	val	images/val/Army_worm_529.jpg	5
+train	images/train/Army_worm_528.jpg	val	images/val/Corn_Health (24).jpg	5
+train	images/train/Army_worm_552.jpg	val	images/val/Corn_Common_Rust (703).jpg	5
+train	images/train/Army_worm_552.jpg	val	images/val/Corn_Health (959).jpg	5
+train	images/train/Corn_Blight_1002.jpg	val	images/val/Corn_Health (1092).jpg	5
+train	images/train/Corn_Blight_1103.jpg	val	images/val/Aphids_854.jpg	5
+train	images/train/Corn_Blight_1104.jpg	val	images/val/Aphids_854.jpg	5
+train	images/train/Corn_Blight_1171.jpg	val	images/val/Army_worm_46.jpg	5
+train	images/train/Corn_Blight_203.jpg	val	images/val/Army_worm_529.jpg	5
+train	images/train/Corn_Blight_204.jpg	val	images/val/Corn_borer_982.jpg	5
+train	images/train/Corn_Blight_316.jpg	val	images/val/Corn_Blight_579.jpg	5
+train	images/train/Corn_Blight_379.jpg	val	images/val/Corn_Blight_1165.jpg	5
+train	images/train/Corn_Blight_379.jpg	val	images/val/Corn_Health (1092).jpg	5
+train	images/train/Corn_Blight_471.jpg	val	images/val/Corn_Health (969).jpg	5
+train	images/train/Corn_Blight_71.jpg	val	images/val/Corn_borer_1002.jpg	5
+train	images/train/Corn_Blight_71.jpg	val	images/val/Corn_borer_846.jpg	5
+train	images/train/Corn_Blight_821.jpg	val	images/val/Corn_Health (1092).jpg	5
+train	images/train/Corn_Blight_888.jpg	val	images/val/Corn_Blight_1165.jpg	5
+train	images/train/Corn_Blight_892.jpg	val	images/val/Aphids_56.jpg	5
+train	images/train/Corn_Common_Rust (1014).jpg	val	images/val/Corn_Common_Rust (689).jpg	5
+train	images/train/Corn_Common_Rust (1037).jpg	val	images/val/Corn_Common_Rust (300).jpg	5
+train	images/train/Corn_Common_Rust (1040).jpg	val	images/val/Corn_Common_Rust (305).jpg	5
+train	images/train/Corn_Common_Rust (1152).jpg	val	images/val/Corn_Common_Rust (944).jpg	5
+train	images/train/Corn_Common_Rust (1169).jpg	val	images/val/Corn_Common_Rust (1219).jpg	5
+train	images/train/Corn_Common_Rust (1190).jpg	val	images/val/Corn_Common_Rust (1181).jpg	5
+train	images/train/Corn_Common_Rust (1201).jpg	val	images/val/Aphids_854.jpg	5
+train	images/train/Corn_Common_Rust (1246).jpg	val	images/val/Corn_Common_Rust (1138).jpg	5
+train	images/train/Corn_Common_Rust (1249).jpg	val	images/val/Corn_Common_Rust (346).jpg	5
+train	images/train/Corn_Common_Rust (1285).jpg	val	images/val/Corn_Blight_437.jpg	5
+train	images/train/Corn_Common_Rust (1285).jpg	val	images/val/Corn_Health (734).jpg	5
+train	images/train/Corn_Common_Rust (133).jpg	val	images/val/Corn_Common_Rust (669).jpg	5
+train	images/train/Corn_Common_Rust (150).jpg	val	images/val/Corn_Common_Rust (1005).jpg	5
+train	images/train/Corn_Common_Rust (158).jpg	val	images/val/Corn_Common_Rust (313).jpg	5
+train	images/train/Corn_Common_Rust (158).jpg	val	images/val/Corn_Common_Rust (593).jpg	5
+train	images/train/Corn_Common_Rust (258).jpg	val	images/val/Corn_Common_Rust (839).jpg	5
+train	images/train/Corn_Common_Rust (264).jpg	val	images/val/Corn_Common_Rust (1127).jpg	5
+train	images/train/Corn_Common_Rust (266).jpg	val	images/val/Corn_Common_Rust (650).jpg	5
+train	images/train/Corn_Common_Rust (267).jpg	val	images/val/Corn_Common_Rust (981).jpg	5
+train	images/train/Corn_Common_Rust (281).jpg	val	images/val/Corn_Common_Rust (1248).jpg	5
+train	images/train/Corn_Common_Rust (307).jpg	val	images/val/Corn_Common_Rust (342).jpg	5
+train	images/train/Corn_Common_Rust (316).jpg	val	images/val/Corn_Common_Rust (340).jpg	5
+train	images/train/Corn_Common_Rust (326).jpg	val	images/val/Corn_Common_Rust (945).jpg	5
+train	images/train/Corn_Common_Rust (364).jpg	val	images/val/Corn_Common_Rust (692).jpg	5
+train	images/train/Corn_Common_Rust (367).jpg	val	images/val/Corn_Common_Rust (981).jpg	5
+train	images/train/Corn_Common_Rust (414).jpg	val	images/val/Corn_Common_Rust (313).jpg	5
+train	images/train/Corn_Common_Rust (414).jpg	val	images/val/Corn_Common_Rust (593).jpg	5
+train	images/train/Corn_Common_Rust (474).jpg	val	images/val/Corn_Common_Rust (681).jpg	5
+train	images/train/Corn_Common_Rust (474).jpg	val	images/val/Corn_Common_Rust (806).jpg	5
+train	images/train/Corn_Common_Rust (481).jpg	val	images/val/Corn_Common_Rust (1008).jpg	5
+train	images/train/Corn_Common_Rust (51).jpg	val	images/val/Corn_Blight_437.jpg	5
+train	images/train/Corn_Common_Rust (550).jpg	val	images/val/Corn_Common_Rust (346).jpg	5
+train	images/train/Corn_Common_Rust (559).jpg	val	images/val/Corn_Common_Rust (1248).jpg	5
+train	images/train/Corn_Common_Rust (559).jpg	val	images/val/Corn_Common_Rust (318).jpg	5
+train	images/train/Corn_Common_Rust (569).jpg	val	images/val/Corn_Common_Rust (1008).jpg	5
+train	images/train/Corn_Common_Rust (684).jpg	val	images/val/Corn_Common_Rust (208).jpg	5
+train	images/train/Corn_Common_Rust (707).jpg	val	images/val/Corn_Common_Rust (665).jpg	5
+train	images/train/Corn_Common_Rust (728).jpg	val	images/val/Corn_Common_Rust (673).jpg	5
+train	images/train/Corn_Common_Rust (729).jpg	val	images/val/Corn_Common_Rust (683).jpg	5
+train	images/train/Corn_Common_Rust (757).jpg	val	images/val/Corn_Common_Rust (313).jpg	5
+train	images/train/Corn_Common_Rust (759).jpg	val	images/val/Corn_Common_Rust (366).jpg	5
+train	images/train/Corn_Common_Rust (774).jpg	val	images/val/Corn_Common_Rust (898).jpg	5
+train	images/train/Corn_Common_Rust (786).jpg	val	images/val/Corn_Common_Rust (724).jpg	5
+train	images/train/Corn_Common_Rust (793).jpg	val	images/val/Corn_Common_Rust (1219).jpg	5
+train	images/train/Corn_Common_Rust (794).jpg	val	images/val/Corn_Common_Rust (1016).jpg	5
+train	images/train/Corn_Common_Rust (824).jpg	val	images/val/Corn_Common_Rust (1008).jpg	5
+train	images/train/Corn_Common_Rust (824).jpg	val	images/val/Corn_Common_Rust (724).jpg	5
+train	images/train/Corn_Common_Rust (838).jpg	val	images/val/Corn_Common_Rust (543).jpg	5
+train	images/train/Corn_Common_Rust (847).jpg	val	images/val/Corn_Common_Rust (354).jpg	5
+train	images/train/Corn_Common_Rust (860).jpg	val	images/val/Corn_Common_Rust (689).jpg	5
+train	images/train/Corn_Common_Rust (903).jpg	val	images/val/Corn_Common_Rust (681).jpg	5
+train	images/train/Corn_Common_Rust (905).jpg	val	images/val/Corn_Common_Rust (319).jpg	5
+train	images/train/Corn_Common_Rust (908).jpg	val	images/val/Corn_Common_Rust (1030).jpg	5
+train	images/train/Corn_Common_Rust (931).jpg	val	images/val/Corn_Common_Rust (944).jpg	5
+train	images/train/Corn_Common_Rust (960).jpg	val	images/val/Corn_Common_Rust (208).jpg	5
+train	images/train/Corn_Common_Rust (974).jpg	val	images/val/Corn_Common_Rust (1248).jpg	5
+train	images/train/Corn_Common_Rust (984).jpg	val	images/val/Corn_Common_Rust (1248).jpg	5
+train	images/train/Corn_Common_Rust (989).jpg	val	images/val/Corn_Common_Rust (968).jpg	5
+train	images/train/Corn_Common_Rust (993).jpg	val	images/val/Corn_Common_Rust (1248).jpg	5
+train	images/train/Corn_Common_Rust (993).jpg	val	images/val/Corn_Common_Rust (708).jpg	5
+train	images/train/Corn_Health (1012).jpg	val	images/val/Corn_Health (812).jpg	5
+train	images/train/Corn_Health (1035).jpg	val	images/val/Aphids_56.jpg	5
+train	images/train/Corn_Health (1084).jpg	val	images/val/Corn_Blight_160.jpg	5
+train	images/train/Corn_Health (1128).jpg	val	images/val/Aphids_56.jpg	5
+train	images/train/Corn_Health (125).jpg	val	images/val/Corn_Health (320).jpg	5
+train	images/train/Corn_Health (161).jpg	val	images/val/Aphids_713.jpg	5
+train	images/train/Corn_Health (170).jpg	val	images/val/Corn_Health (697).jpg	5
+train	images/train/Corn_Health (187).jpg	val	images/val/Army_worm_529.jpg	5
+train	images/train/Corn_Health (223).jpg	val	images/val/Aphids_854.jpg	5
+train	images/train/Corn_Health (223).jpg	val	images/val/Corn_borer_911.jpg	5
+train	images/train/Corn_Health (262).jpg	val	images/val/Corn_Health (113).jpg	5
+train	images/train/Corn_Health (277).jpg	val	images/val/Aphids_770.jpg	5
+train	images/train/Corn_Health (278).jpg	val	images/val/Corn_Health (812).jpg	5
+train	images/train/Corn_Health (373).jpg	val	images/val/Army_worm_46.jpg	5
+train	images/train/Corn_Health (392).jpg	val	images/val/Corn_Health (734).jpg	5
+train	images/train/Corn_Health (462).jpg	val	images/val/Corn_Blight_437.jpg	5
+train	images/train/Corn_Health (462).jpg	val	images/val/Corn_Health (414).jpg	5
+train	images/train/Corn_Health (462).jpg	val	images/val/Corn_Health (969).jpg	5
+train	images/train/Corn_Health (558).jpg	val	images/val/Corn_Blight_859.jpg	5
+train	images/train/Corn_Health (796).jpg	val	images/val/Corn_Health (288).jpg	5
+train	images/train/Corn_Health (823).jpg	val	images/val/Corn_Blight_614.jpg	5
+train	images/train/Corn_Health (982).jpg	val	images/val/Aphids_56.jpg	5
+train	images/train/Corn_Health (986).jpg	val	images/val/Aphids_99.jpg	5
+train	images/train/Corn_Health (986).jpg	val	images/val/Corn_Health (714).jpg	5
+train	images/train/Corn_borer_897.jpg	val	images/val/Army_worm_476.jpg	5
+train	images/train/Gray_Leaf_Spot_108.jpg	val	images/val/Corn_Health (24).jpg	5
+train	images/train/Gray_Leaf_Spot_189.jpg	val	images/val/Aphids_591.jpg	5
+train	images/train/Gray_Leaf_Spot_36.jpg	val	images/val/Gray_Leaf_Spot_325.jpg	5
+train	images/train/Gray_Leaf_Spot_459.jpg	val	images/val/Corn_Common_Rust (346).jpg	5
+train	images/train/aug1_c3_00101.jpg	val	images/val/Corn_Health (24).jpg	5
+train	images/train/aug1_c3_00108.jpg	val	images/val/Corn_Health (24).jpg	5
+train	images/train/aug1_c3_00160.jpg	val	images/val/Aphids_99.jpg	5
+train	images/train/aug1_c3_00221.jpg	val	images/val/Corn_Health (24).jpg	5
+train	images/train/aug1_c3_00301.jpg	val	images/val/Corn_Health (585).jpg	5
+train	images/train/aug1_c3_00301.jpg	val	images/val/Corn_Health (734).jpg	5
+train	images/train/aug1_c3_00320.jpg	val	images/val/Aphids_591.jpg	5
+train	images/train/aug1_c4_00039.jpg	val	images/val/Aphids_177.jpg	5
+train	images/train/aug1_c4_00222.jpg	val	images/val/Corn_borer_863.jpg	5
+train	images/train/aug1_c5_00015.jpg	val	images/val/Corn_Health (812).jpg	5
+train	images/train/aug1_c5_00051.jpg	val	images/val/Army_worm_529.jpg	5
+train	images/train/aug1_c5_00051.jpg	val	images/val/Corn_Health (24).jpg	5
+train	images/train/aug1_c5_00054.jpg	val	images/val/Corn_Health (414).jpg	5
+train	images/train/aug1_c5_00054.jpg	val	images/val/Corn_Health (734).jpg	5
+train	images/train/aug1_c5_00072.jpg	val	images/val/Army_worm_308.jpg	5
+train	images/train/aug1_c5_00150.jpg	val	images/val/Corn_Health (812).jpg	5
+train	images/train/aug1_c5_00169.jpg	val	images/val/Aphids_207.jpg	5
+train	images/train/aug1_c5_00232.jpg	val	images/val/Army_worm_529.jpg	5
+train	images/train/aug1_c5_00232.jpg	val	images/val/Corn_Health (24).jpg	5
+train	images/train/aug1_c5_00244.jpg	val	images/val/Army_worm_308.jpg	5
+train	images/train/aug1_c5_00277.jpg	val	images/val/Corn_Health (24).jpg	5
+train	images/train/aug1_c5_00290.jpg	val	images/val/Army_worm_529.jpg	5
+train	images/train/aug1_c5_00290.jpg	val	images/val/Corn_Health (24).jpg	5
+train	images/train/aug1_c5_00296.jpg	val	images/val/Army_worm_529.jpg	5
+train	images/train/aug1_c5_00296.jpg	val	images/val/Corn_Health (24).jpg	5
+train	images/train/aug1_c5_00334.jpg	val	images/val/Corn_Health (734).jpg	5
+train	images/train/aug1_c5_00379.jpg	val	images/val/Army_worm_529.jpg	5
+train	images/train/aug1_c5_00379.jpg	val	images/val/Corn_Health (24).jpg	5
+train	images/train/aug1_c5_00425.jpg	val	images/val/Army_worm_529.jpg	5
+train	images/train/aug1_c5_00425.jpg	val	images/val/Corn_Health (24).jpg	5
+train	images/train/aug1_c5_00446.jpg	val	images/val/Army_worm_529.jpg	5
+train	images/train/aug1_c5_00446.jpg	val	images/val/Corn_Health (24).jpg	5
+train	images/train/aug1_c5_00502.jpg	val	images/val/Army_worm_529.jpg	5
+train	images/train/aug1_c5_00502.jpg	val	images/val/Corn_Health (24).jpg	5
+train	images/train/mosaic_00311.jpg	val	images/val/Aphids_415.jpg	5
+train	images/train/mosaic_00311.jpg	val	images/val/Corn_Blight_956.jpg	5
+train	images/train/mosaic_00311.jpg	val	images/val/Corn_Health (24).jpg	5
+val	images/val/Aphids_666.jpg	test	images/test/Aphids_839.jpg	0
+val	images/val/Aphids_788.jpg	test	images/test/Aphids_744.jpg	0
+val	images/val/Aphids_801.jpg	test	images/test/Aphids_744.jpg	0
+val	images/val/Aphids_846.jpg	test	images/test/Aphids_830.jpg	0
+val	images/val/Aphids_870.jpg	test	images/test/Aphids_867.jpg	0
+val	images/val/Aphids_874.jpg	test	images/test/Aphids_849.jpg	0
+val	images/val/Aphids_878.jpg	test	images/test/Aphids_867.jpg	0
+val	images/val/Corn_borer_320.jpg	test	images/test/Corn_borer_748.jpg	0
+val	images/val/Aphids_666.jpg	test	images/test/Aphids_863.jpg	1
+val	images/val/Aphids_735.jpg	test	images/test/Aphids_863.jpg	1
+val	images/val/Aphids_866.jpg	test	images/test/Aphids_863.jpg	1
+val	images/val/Aphids_870.jpg	test	images/test/Aphids_841.jpg	1
+val	images/val/Aphids_878.jpg	test	images/test/Aphids_841.jpg	1
+val	images/val/Corn_borer_302.jpg	test	images/test/Corn_borer_224.jpg	1
+val	images/val/Aphids_173.jpg	test	images/test/Aphids_319.jpg	2
+val	images/val/Aphids_735.jpg	test	images/test/Aphids_839.jpg	2
+val	images/val/Aphids_769.jpg	test	images/test/Aphids_703.jpg	2
+val	images/val/Aphids_779.jpg	test	images/test/Aphids_789.jpg	2
+val	images/val/Aphids_866.jpg	test	images/test/Aphids_839.jpg	2
+val	images/val/Army_worm_390.jpg	test	images/test/Army_worm_0.jpg	2
+val	images/val/Corn_Health (233).jpg	test	images/test/Corn_Health (64).jpg	2
+val	images/val/Aphids_141.jpg	test	images/test/Aphids_319.jpg	3
+val	images/val/Aphids_993.jpg	test	images/test/Aphids_319.jpg	3
+val	images/val/Army_worm_46.jpg	test	images/test/Corn_borer_262.jpg	3
+val	images/val/Corn_Blight_696.jpg	test	images/test/Corn_Health (848).jpg	3
+val	images/val/Corn_Common_Rust (325).jpg	test	images/test/Corn_Common_Rust (343).jpg	3
+val	images/val/Corn_Health (24).jpg	test	images/test/Corn_Health (64).jpg	3
+val	images/val/Corn_Health (734).jpg	test	images/test/Corn_Health (10).jpg	3
+val	images/val/Aphids_177.jpg	test	images/test/Aphids_319.jpg	4
+val	images/val/Aphids_287.jpg	test	images/test/Aphids_319.jpg	4
+val	images/val/Aphids_354.jpg	test	images/test/Corn_borer_262.jpg	4
+val	images/val/Aphids_37.jpg	test	images/test/Aphids_637.jpg	4
+val	images/val/Aphids_854.jpg	test	images/test/Aphids_863.jpg	4
+val	images/val/Aphids_854.jpg	test	images/test/Corn_Health (670).jpg	4
+val	images/val/Aphids_99.jpg	test	images/test/Corn_Blight_216.jpg	4
+val	images/val/Army_worm_529.jpg	test	images/test/Aphids_401.jpg	4
+val	images/val/Army_worm_529.jpg	test	images/test/Corn_Blight_798.jpg	4
+val	images/val/Corn_Blight_956.jpg	test	images/test/Aphids_127.jpg	4
+val	images/val/Corn_Common_Rust (313).jpg	test	images/test/Corn_Common_Rust (663).jpg	4
+val	images/val/Corn_Common_Rust (616).jpg	test	images/test/Corn_Common_Rust (802).jpg	4
+val	images/val/Corn_Common_Rust (806).jpg	test	images/test/Aphids_994.jpg	4
+val	images/val/Corn_Common_Rust (817).jpg	test	images/test/Corn_Common_Rust (738).jpg	4
+val	images/val/Corn_Common_Rust (861).jpg	test	images/test/Corn_Common_Rust (1278).jpg	4
+val	images/val/Corn_Common_Rust (928).jpg	test	images/test/Corn_Common_Rust (740).jpg	4
+val	images/val/Corn_Health (24).jpg	test	images/test/Corn_Health (10).jpg	4
+val	images/val/Corn_Health (376).jpg	test	images/test/Corn_Health (437).jpg	4
+val	images/val/Corn_borer_730.jpg	test	images/test/Aphids_485.jpg	4
+val	images/val/Aphids_128.jpg	test	images/test/Aphids_319.jpg	5
+val	images/val/Aphids_173.jpg	test	images/test/Aphids_351.jpg	5
+val	images/val/Aphids_177.jpg	test	images/test/Aphids_351.jpg	5
+val	images/val/Aphids_445.jpg	test	images/test/Corn_Common_Rust (71).jpg	5
+val	images/val/Aphids_695.jpg	test	images/test/Aphids_622.jpg	5
+val	images/val/Aphids_713.jpg	test	images/test/Corn_Health (670).jpg	5
+val	images/val/Aphids_842.jpg	test	images/test/Army_worm_610.jpg	5
+val	images/val/Aphids_854.jpg	test	images/test/Aphids_839.jpg	5
+val	images/val/Aphids_854.jpg	test	images/test/Corn_Health (947).jpg	5
+val	images/val/Aphids_968.jpg	test	images/test/Corn_Health (10).jpg	5
+val	images/val/Aphids_968.jpg	test	images/test/Gray_Leaf_Spot_150.jpg	5
+val	images/val/Corn_Blight_437.jpg	test	images/test/Aphids_127.jpg	5
+val	images/val/Corn_Blight_629.jpg	test	images/test/Corn_Health (567).jpg	5
+val	images/val/Corn_Blight_696.jpg	test	images/test/Corn_Health (947).jpg	5
+val	images/val/Corn_Common_Rust (1127).jpg	test	images/test/Corn_Common_Rust (433).jpg	5
+val	images/val/Corn_Common_Rust (208).jpg	test	images/test/Corn_Common_Rust (887).jpg	5
+val	images/val/Corn_Common_Rust (572).jpg	test	images/test/Corn_Common_Rust (1278).jpg	5
+val	images/val/Corn_Common_Rust (708).jpg	test	images/test/Corn_Common_Rust (983).jpg	5
+val	images/val/Corn_Common_Rust (803).jpg	test	images/test/Corn_Common_Rust (311).jpg	5
+val	images/val/Corn_Common_Rust (944).jpg	test	images/test/Corn_Common_Rust (887).jpg	5
+val	images/val/Corn_Common_Rust (945).jpg	test	images/test/Corn_Common_Rust (405).jpg	5
+val	images/val/Corn_Health (473).jpg	test	images/test/Aphids_401.jpg	5
+val	images/val/Corn_Health (585).jpg	test	images/test/Aphids_401.jpg	5
+val	images/val/Corn_Health (585).jpg	test	images/test/Corn_Health (291).jpg	5
+val	images/val/Corn_Health (585).jpg	test	images/test/Corn_Health (314).jpg	5
+val	images/val/Corn_Health (734).jpg	test	images/test/Corn_Health (193).jpg	5
+val	images/val/Corn_Health (734).jpg	test	images/test/Gray_Leaf_Spot_150.jpg	5
+val	images/val/Corn_borer_991.jpg	test	images/test/Corn_Health (848).jpg	5

@@ -1,0 +1,80 @@
+Corn_Health (871)
+Aphids_793
+Corn_borer_622
+Corn_Health (1082)
+Army_worm_380
+Corn_Health (475)
+Aphids_148
+Corn_Common_Rust (1153)
+Corn_Common_Rust (1177)
+Corn_Health (929)
+Army_worm_94
+Aphids_727
+Gray_Leaf_Spot_261
+Corn_Common_Rust (501)
+Aphids_849
+Aphids_50
+Army_worm_0
+Army_worm_613
+Gray_Leaf_Spot_145
+Gray_Leaf_Spot_136
+Corn_Common_Rust (568)
+Aphids_692
+Corn_borer_236
+Aphids_286
+Corn_Health (807)
+Corn_Health (401)
+Gray_Leaf_Spot_152
+Army_worm_464
+Corn_borer_154
+Corn_borer_556
+Gray_Leaf_Spot_227
+Corn_Common_Rust (348)
+Corn_Common_Rust (952)
+Corn_Common_Rust (1074)
+Corn_Health (439)
+Corn_borer_118
+Aphids_994
+Army_worm_499
+Army_worm_537
+Corn_borer_96
+Corn_Blight_1061
+Aphids_485
+Aphids_697
+Corn_Health (958)
+Gray_Leaf_Spot_520
+Corn_Blight_184
+Army_worm_414
+Corn_borer_970
+Corn_Blight_267
+Corn_Health (976)
+Corn_borer_828
+Army_worm_162
+Army_worm_614
+Corn_Blight_229
+Aphids_801
+Corn_Common_Rust (1110)
+Army_worm_288
+Corn_Blight_1115
+Corn_borer_634
+Corn_Blight_1154
+Corn_Common_Rust (703)
+Gray_Leaf_Spot_361
+Corn_Health (122)
+Gray_Leaf_Spot_139
+Corn_borer_895
+Corn_Common_Rust (784)
+Aphids_157
+Army_worm_352
+Corn_borer_330
+Gray_Leaf_Spot_404
+Corn_Health (700)
+Gray_Leaf_Spot_29
+Army_worm_202
+Gray_Leaf_Spot_554
+Corn_Blight_530
+Corn_Health (104)
+Corn_Health (328)
+Aphids_729
+Gray_Leaf_Spot_490
+Aphids_249

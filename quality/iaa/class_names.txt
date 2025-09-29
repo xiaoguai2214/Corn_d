@@ -1,0 +1,7 @@
+0,Healthy
+1,Common_Rust
+2,Blight
+3,Gray_Leaf_Spot
+4,Corn_borer
+5,Army_worm
+6,Aphids

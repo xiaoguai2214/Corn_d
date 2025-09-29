@@ -1,0 +1,22 @@
+# sha1	split	rel_image_path
+60fda3706b3f7bf39df69228176d5ce96ba45562	train	images/train/aug1_c4_00028.jpg
+60fda3706b3f7bf39df69228176d5ce96ba45562	val	images/val/Corn_borer_898.jpg
+
+6ca54e0e5e0e2fa3d04e75151abb04fccf438617	train	images/train/aug1_c4_00043.jpg
+6ca54e0e5e0e2fa3d04e75151abb04fccf438617	val	images/val/Corn_borer_977.jpg
+
+768bd98fd52299481beee9e16e5e16d4b9b0bc26	train	images/train/aug1_c5_00007.jpg
+768bd98fd52299481beee9e16e5e16d4b9b0bc26	val	images/val/Army_worm_518.jpg
+
+f4f534d0d26dbf250f6dbb9a53fb476ef1eec41c	train	images/train/aug1_c5_00191.jpg
+f4f534d0d26dbf250f6dbb9a53fb476ef1eec41c	val	images/val/Army_worm_515.jpg
+
+0f0e9f8e5e2d7909327f25e36a73d1fec67417a3	train	images/train/aug1_c5_00274.jpg
+0f0e9f8e5e2d7909327f25e36a73d1fec67417a3	val	images/val/Army_worm_590.jpg
+
+09ebef6fb598d75dcecbb2f763d111c0dc1653ca	train	images/train/aug1_c5_00315.jpg
+09ebef6fb598d75dcecbb2f763d111c0dc1653ca	test	images/test/Army_worm_547.jpg
+
+15ae63308f682b9381c4ae0e8c1cfa03a7335fbe	train	images/train/aug1_c5_00370.jpg
+15ae63308f682b9381c4ae0e8c1cfa03a7335fbe	val	images/val/Army_worm_429.jpg
+

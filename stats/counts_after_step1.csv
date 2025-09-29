@@ -1,0 +1,8 @@
+split,class,images_containing_class
+train,Healthy,813
+train,Common_Rust,914
+train,Blight,872
+train,Gray_Leaf_Spot,800
+train,Corn_borer,800
+train,Army_worm,800
+train,Aphids,700

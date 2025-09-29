@@ -1,0 +1,106 @@
+stem,(one) class present,rel_image_path
+Corn_Health (958),Healthy,images/test/Corn_Health (958).jpg
+Corn_Health (700),Healthy,images/val/Corn_Health (700).jpg
+Corn_Health (929),Healthy,images/val/Corn_Health (929).jpg
+Corn_Health (1151),Healthy,images/val/Corn_Health (1151).jpg
+Corn_Health (1082),Healthy,images/val/Corn_Health (1082).jpg
+Corn_Health (328),Healthy,images/test/Corn_Health (328).jpg
+Corn_Health (475),Healthy,images/test/Corn_Health (475).jpg
+Corn_Health (401),Healthy,images/test/Corn_Health (401).jpg
+Corn_Health (703),Healthy,images/val/Corn_Health (703).jpg
+Corn_Health (104),Healthy,images/val/Corn_Health (104).jpg
+Corn_Health (976),Healthy,images/val/Corn_Health (976).jpg
+Corn_Health (871),Healthy,images/val/Corn_Health (871).jpg
+Corn_Health (807),Healthy,images/test/Corn_Health (807).jpg
+Corn_Health (439),Healthy,images/val/Corn_Health (439).jpg
+Corn_Health (122),Healthy,images/val/Corn_Health (122).jpg
+Corn_Common_Rust (625),Common_Rust,images/val/Corn_Common_Rust (625).jpg
+Corn_Common_Rust (568),Common_Rust,images/test/Corn_Common_Rust (568).jpg
+Corn_Common_Rust (1181),Common_Rust,images/val/Corn_Common_Rust (1181).jpg
+Corn_Common_Rust (1153),Common_Rust,images/test/Corn_Common_Rust (1153).jpg
+Corn_Common_Rust (1110),Common_Rust,images/val/Corn_Common_Rust (1110).jpg
+Corn_Common_Rust (1074),Common_Rust,images/test/Corn_Common_Rust (1074).jpg
+Corn_Common_Rust (981),Common_Rust,images/val/Corn_Common_Rust (981).jpg
+Corn_Common_Rust (348),Common_Rust,images/val/Corn_Common_Rust (348).jpg
+Corn_Common_Rust (784),Common_Rust,images/val/Corn_Common_Rust (784).jpg
+Corn_Common_Rust (501),Common_Rust,images/val/Corn_Common_Rust (501).jpg
+Corn_Common_Rust (1177),Common_Rust,images/test/Corn_Common_Rust (1177).jpg
+Corn_Common_Rust (842),Common_Rust,images/test/Corn_Common_Rust (842).jpg
+Corn_Common_Rust (634),Common_Rust,images/test/Corn_Common_Rust (634).jpg
+Corn_Common_Rust (703),Common_Rust,images/val/Corn_Common_Rust (703).jpg
+Corn_Common_Rust (952),Common_Rust,images/test/Corn_Common_Rust (952).jpg
+Corn_Blight_184,Blight,images/test/Corn_Blight_184.jpg
+Corn_Blight_1115,Blight,images/test/Corn_Blight_1115.jpg
+Corn_Blight_1037,Blight,images/val/Corn_Blight_1037.jpg
+Corn_Blight_1154,Blight,images/test/Corn_Blight_1154.jpg
+Corn_Blight_229,Blight,images/val/Corn_Blight_229.jpg
+Corn_Blight_89,Blight,images/val/Corn_Blight_89.jpg
+Corn_Blight_450,Blight,images/val/Corn_Blight_450.jpg
+Corn_Blight_620,Blight,images/val/Corn_Blight_620.jpg
+Corn_Blight_893,Blight,images/test/Corn_Blight_893.jpg
+Corn_Blight_1061,Blight,images/test/Corn_Blight_1061.jpg
+Corn_Blight_530,Blight,images/val/Corn_Blight_530.jpg
+Corn_Blight_828,Blight,images/val/Corn_Blight_828.jpg
+Corn_Blight_267,Blight,images/val/Corn_Blight_267.jpg
+Corn_Blight_507,Blight,images/val/Corn_Blight_507.jpg
+Corn_Blight_108,Blight,images/test/Corn_Blight_108.jpg
+Gray_Leaf_Spot_145,Gray_Leaf_Spot,images/val/Gray_Leaf_Spot_145.jpg
+Gray_Leaf_Spot_234,Gray_Leaf_Spot,images/val/Gray_Leaf_Spot_234.jpg
+Gray_Leaf_Spot_351,Gray_Leaf_Spot,images/test/Gray_Leaf_Spot_351.jpg
+Gray_Leaf_Spot_520,Gray_Leaf_Spot,images/val/Gray_Leaf_Spot_520.jpg
+Gray_Leaf_Spot_29,Gray_Leaf_Spot,images/val/Gray_Leaf_Spot_29.jpg
+Gray_Leaf_Spot_136,Gray_Leaf_Spot,images/val/Gray_Leaf_Spot_136.jpg
+Gray_Leaf_Spot_554,Gray_Leaf_Spot,images/test/Gray_Leaf_Spot_554.jpg
+Gray_Leaf_Spot_227,Gray_Leaf_Spot,images/val/Gray_Leaf_Spot_227.jpg
+Gray_Leaf_Spot_404,Gray_Leaf_Spot,images/test/Gray_Leaf_Spot_404.jpg
+Gray_Leaf_Spot_67,Gray_Leaf_Spot,images/val/Gray_Leaf_Spot_67.jpg
+Gray_Leaf_Spot_152,Gray_Leaf_Spot,images/val/Gray_Leaf_Spot_152.jpg
+Gray_Leaf_Spot_261,Gray_Leaf_Spot,images/val/Gray_Leaf_Spot_261.jpg
+Gray_Leaf_Spot_139,Gray_Leaf_Spot,images/val/Gray_Leaf_Spot_139.jpg
+Gray_Leaf_Spot_490,Gray_Leaf_Spot,images/val/Gray_Leaf_Spot_490.jpg
+Gray_Leaf_Spot_361,Gray_Leaf_Spot,images/val/Gray_Leaf_Spot_361.jpg
+Corn_borer_146,Corn_borer,images/test/Corn_borer_146.jpg
+Corn_borer_236,Corn_borer,images/test/Corn_borer_236.jpg
+Corn_borer_154,Corn_borer,images/val/Corn_borer_154.jpg
+Corn_borer_118,Corn_borer,images/val/Corn_borer_118.jpg
+Corn_borer_970,Corn_borer,images/test/Corn_borer_970.jpg
+Corn_borer_330,Corn_borer,images/val/Corn_borer_330.jpg
+Corn_borer_895,Corn_borer,images/val/Corn_borer_895.jpg
+Corn_borer_628,Corn_borer,images/val/Corn_borer_628.jpg
+Corn_borer_96,Corn_borer,images/val/Corn_borer_96.jpg
+Corn_borer_622,Corn_borer,images/test/Corn_borer_622.jpg
+Corn_borer_680,Corn_borer,images/val/Corn_borer_680.jpg
+Corn_borer_634,Corn_borer,images/val/Corn_borer_634.jpg
+Corn_borer_524,Corn_borer,images/test/Corn_borer_524.jpg
+Corn_borer_828,Corn_borer,images/test/Corn_borer_828.jpg
+Corn_borer_556,Corn_borer,images/val/Corn_borer_556.jpg
+Army_worm_202,Army_worm,images/val/Army_worm_202.jpg
+Army_worm_414,Army_worm,images/val/Army_worm_414.jpg
+Army_worm_613,Army_worm,images/test/Army_worm_613.jpg
+Army_worm_94,Army_worm,images/val/Army_worm_94.jpg
+Army_worm_614,Army_worm,images/val/Army_worm_614.jpg
+Army_worm_537,Army_worm,images/val/Army_worm_537.jpg
+Army_worm_128,Army_worm,images/test/Army_worm_128.jpg
+Army_worm_288,Army_worm,images/val/Army_worm_288.jpg
+Army_worm_198,Army_worm,images/val/Army_worm_198.jpg
+Army_worm_0,Army_worm,images/test/Army_worm_0.jpg
+Army_worm_380,Army_worm,images/val/Army_worm_380.jpg
+Army_worm_499,Army_worm,images/test/Army_worm_499.jpg
+Army_worm_352,Army_worm,images/val/Army_worm_352.jpg
+Army_worm_464,Army_worm,images/test/Army_worm_464.jpg
+Army_worm_162,Army_worm,images/val/Army_worm_162.jpg
+Aphids_727,Aphids,images/val/Aphids_727.jpg
+Aphids_249,Aphids,images/test/Aphids_249.jpg
+Aphids_692,Aphids,images/val/Aphids_692.jpg
+Aphids_50,Aphids,images/val/Aphids_50.jpg
+Aphids_485,Aphids,images/test/Aphids_485.jpg
+Aphids_157,Aphids,images/test/Aphids_157.jpg
+Aphids_934,Aphids,images/test/Aphids_934.jpg
+Aphids_729,Aphids,images/test/Aphids_729.jpg
+Aphids_793,Aphids,images/val/Aphids_793.jpg
+Aphids_849,Aphids,images/test/Aphids_849.jpg
+Aphids_994,Aphids,images/test/Aphids_994.jpg
+Aphids_801,Aphids,images/val/Aphids_801.jpg
+Aphids_148,Aphids,images/val/Aphids_148.jpg
+Aphids_286,Aphids,images/test/Aphids_286.jpg
+Aphids_697,Aphids,images/test/Aphids_697.jpg
